@@ -42,48 +42,48 @@ Figma Design File: https://www.figma.com/file/xqxv1HgYitYUSLF5Gg3EXM/SDU-Car-Ren
 ## Folder Structure
 Example Folder Structure
 
-src/
-├── components/
-│   ├── Button.tsx
-│   └── Header.tsx
-├── hooks/
-│   └── useHeader.ts
-├── localization/
-│   ├── languages.ts
-│   └── locales.ts
-├── lib/
-│   ├── axios-instance.ts
-│   └── constants.ts
-├── navigation/
-│   ├── root-navigator.tsx
-│   └── auth-stack.tsx
-├── services/
-│   ├── notification.ts
-│   └── logging.ts
-├── theme/
-│   └── index.ts
-├── types/
-│   ├── env.d.ts
-│   └── react-augment.d.ts
-├── utils/
-│   └── layout.ts
-└── features/
-    ├── auth/
-    │   ├── api/
-    │   │   ├── login.ts
-    │   │   ├── signup.ts
-    │   │   └── refresh-token.ts
-    │   ├── helpers/
-    │   │   ├── validateToken.ts
-    │   │   └── dataTransformer.ts
-    │   ├── hooks/
-    │   │   ├── useLoginAction.ts
-    │   │   └── useSignupForm.ts
-    │   ├── screens/
-    │   │   ├── Login.tsx
-    │   │   └── Signup.tsx
-    │   ├── services/
-    │   │   └── validation.ts
-    │   └── store/
-    │       └── auth.ts (zustand, redux, jotai etc.)
-    └── ... (other features)
+src/  <br>
+├── components/  <br>
+│   ├── Button.tsx  <br>
+│   └── Header.tsx  <br>
+├── hooks/  <br>
+│   └── useHeader.ts  <br>
+├── localization/  <br>
+│   ├── languages.ts  <br>
+│   └── locales.ts  <br>
+├── lib/  <br>
+│   ├── axios-instance.ts  <br>
+│   └── constants.ts  <br>
+├── navigation/  <br>
+│   ├── root-navigator.tsx  <br>
+│   └── auth-stack.tsx  <br>
+├── services/ <br>
+│   ├── notification.ts <br>
+│   └── logging.ts <br>
+├── theme/ <br>
+│   └── index.ts <br>
+├── types/ <br>
+│   ├── env.d.ts <br>
+│   └── react-augment.d.ts <br>
+├── utils/ <br>
+│   └── layout.ts  <br>
+└── features/ <br>
+    ├── auth/ <br>
+    │   ├── api/ <br>
+    │   │   ├── login.ts <br>
+    │   │   ├── signup.ts <br>
+    │   │   └── refresh-token.ts <br>
+    │   ├── helpers/ <br>
+    │   │   ├── validateToken.ts <br>
+    │   │   └── dataTransformer.ts <br>
+    │   ├── hooks/ <br>
+    │   │   ├── useLoginAction.ts <br>
+    │   │   └── useSignupForm.ts <br>
+    │   ├── screens/ <br>
+    │   │   ├── Login.tsx <br>
+    │   │   └── Signup.tsx <br>
+    │   ├── services/ <br>
+    │   │   └── validation.ts <br>
+    │   └── store/ <br>
+    │       └── auth.ts (zustand, redux, jotai etc.) <br>
+    └── ... (other features) <br>
