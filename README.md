@@ -82,8 +82,8 @@ src/  <br>
     │   ├── screens/ <br>
     │   │   ├── Login.tsx <br>
     │   │   └── Signup.tsx <br>
-    │   ├── services/ <br>
-    │   │   └── validation.ts <br>
-    │   └── store/ <br>
-    │       └── auth.ts (zustand, redux, jotai etc.) <br>
-    └── ... (other features) <br>
+    │   ├── services/  
+    │   │   └── validation.ts  
+    │   └── store/  
+    │       └── auth.ts (zustand, redux, jotai etc.)  
+    └── ... (other features)  
