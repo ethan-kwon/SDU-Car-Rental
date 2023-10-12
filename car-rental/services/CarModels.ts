@@ -1,14 +1,15 @@
 import Car from "../models/Car";
 
-export const cars: Car[] = [{
-    id: 1,
-    manufacturer: "GMC",
-    model: "Vandura G1500",
-    year: 1995,
-    licenseNumber: "JN 1AV7A",
-    color: "Violet",
-    pricePerDay: 789
-},
+export const cars: Car[] = [
+    {
+        id: 1,
+        manufacturer: "GMC",
+        model: "Vandura G1500",
+        year: 1995,
+        licenseNumber: "JN 1AV7A",
+        color: "Violet",
+        pricePerDay: 789
+    },
     {
         id: 2,
         manufacturer: "Mercury",
