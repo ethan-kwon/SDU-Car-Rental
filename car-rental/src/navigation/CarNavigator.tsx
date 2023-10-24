@@ -7,7 +7,10 @@ const CarNavigator = () => {
     return (
         <CarStack.Navigator>
             <CarStack.Screen name={"Root"} component={HomeScreen} options={{headerShown: false}}/>
-            <CarStack.Screen name={"CarDetails"} component={CarDetailsScreen}/>
+            <CarStack.Screen name={"CarDetails"}
+                             component={CarDetailsScreen}
+                             options={({route}: { route: any }) =>
+                                 ({headerTitle: route.params.title === undefined ? 'CarDetails' : route.params.title})}/>
         </CarStack.Navigator>
     );
 }
