@@ -1,5 +1,5 @@
 import Car from "../models/Car";
-import {cars} from "./CarModels";
+import {cars} from "../mocks/CarModels";
 
 function getAllCars(): Car[] {
     return cars;
