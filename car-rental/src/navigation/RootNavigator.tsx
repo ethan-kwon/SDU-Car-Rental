@@ -1,14 +1,14 @@
 import {createBottomTabNavigator} from "@react-navigation/bottom-tabs";
 import {NavigationContainer} from "@react-navigation/native";
-import HomeScreen from "../screens/HomeScreen";
 import ProfileScreen from "../screens/ProfileScreen";
+import CarNavigator from "./CarNavigator";
 
 const RootNavigator = () => {
     const Tab = createBottomTabNavigator();
     return (
         <NavigationContainer>
-            <Tab.Navigator>
-                <Tab.Screen name={"Home"} component={HomeScreen}/>
+            <Tab.Navigator screenOptions={{headerShown: false}}>
+                <Tab.Screen name={"Home"} component={CarNavigator}/>
                 <Tab.Screen name={"Profile"} component={ProfileScreen}/>
             </Tab.Navigator>
         </NavigationContainer>
