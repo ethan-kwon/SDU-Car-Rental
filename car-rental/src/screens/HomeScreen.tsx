@@ -14,7 +14,7 @@ const HomeScreen = ({navigation}: { navigation: any }) => {
         fetch(URL)
             .then(response => response.json())
             .then(json => setCars(json))
-    })
+    }, [])
 
     const renderItem = ({item}: { item: Car }) => {
         const headerTitle = item.manufacturer + " " + item.model;

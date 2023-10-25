@@ -7,7 +7,7 @@ interface CarDetailsScreenProps {
 
 const CarDetailsScreen = (props: CarDetailsScreenProps) => {
     const {car} = props.route.params;
-    const headerTitle = car.manufacturer + " "+ car.model;
+    const headerTitle = car.manufacturer + " " + car.model;
     props.navigation.setOptions({headerTitle: headerTitle});
 
     return (
@@ -15,7 +15,7 @@ const CarDetailsScreen = (props: CarDetailsScreenProps) => {
             <Text>{car.id}</Text>
             <Text>{car.manufacturer}</Text>
             <Text>{car.model}</Text>
-            <Text>{car.year}</Text>
+            <Text>{car.productionYear}</Text>
             <Text>{car.licenseNumber}</Text>
             <Text>{car.color}</Text>
             <Text>{car.pricePerDay}</Text>
