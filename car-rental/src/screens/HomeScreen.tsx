@@ -3,17 +3,40 @@ import {useEffect, useState} from "react";
 import Car from "../models/Car";
 
 import CarItem from "../components/CarItem";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
+const CARS_KEY = 'CARS'
 
 const HomeScreen = ({navigation}: { navigation: any }) => {
     const [cars, setCars] = useState<Car[]>();
 
-    useEffect(() => {
-        const URL = 'http://10.0.2.2:8080/cars';
+    const getCarsFromStorage = async () => {
+        return AsyncStorage.getItem(CARS_KEY);
+    }
 
-        fetch(URL)
+    const getCarsFromApi = async () => {
+        const URL = 'http://10.0.2.2:8080/cars';
+        return fetch(URL)
             .then(response => response.json())
-            .then(json => setCars(json))
+    }
+
+    const loadAllCars = async () => {
+        const carsFromStorage = await getCarsFromStorage();
+
+        if (carsFromStorage !== null) {
+            setCars(JSON.parse(carsFromStorage));
+            return;
+        }
+
+        await getCarsFromApi().then(async result => {
+            await AsyncStorage.setItem(CARS_KEY, JSON.stringify(result));
+            setCars(result);
+        });
+    }
+
+
+    useEffect(() => {
+        loadAllCars().then();
     }, [])
 
     const renderItem = ({item}: { item: Car }) => {

@@ -1,4 +1,5 @@
 import {Text, View} from "react-native";
+import {useEffect, useState} from "react";
 
 interface CarDetailsScreenProps {
     navigation: any;
@@ -6,9 +7,15 @@ interface CarDetailsScreenProps {
 }
 
 const CarDetailsScreen = (props: CarDetailsScreenProps) => {
-    const {car} = props.route.params;
-    const headerTitle = car.manufacturer + " " + car.model;
-    props.navigation.setOptions({headerTitle: headerTitle});
+    const [car, setCar] = useState(() => {
+        const {car} = props.route.params;
+        return car;
+    });
+
+    useEffect(() => {
+        const headerTitle = car.manufacturer + " " + car.model;
+        props.navigation.setOptions({headerTitle: headerTitle});
+    }, [])
 
     return (
         <View>
