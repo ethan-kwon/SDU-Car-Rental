@@ -11,7 +11,7 @@ const CarItem = (props: CarItemProps) => {
             <Text>{props.car.id}</Text>
             <Text>{props.car.manufacturer}</Text>
             <Text>{props.car.model}</Text>
-            <Text>{props.car.year}</Text>
+            <Text>{props.car.productionYear}</Text>
             <Text>{props.car.licenseNumber}</Text>
             <Text>{props.car.color}</Text>
             <Text>{props.car.pricePerDay}</Text>
