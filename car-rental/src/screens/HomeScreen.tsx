@@ -1,15 +1,20 @@
 import {FlatList, SafeAreaView, StatusBar, StyleSheet, TouchableOpacity, View} from "react-native";
-import {useState} from "react";
+import {useEffect, useState} from "react";
 import Car from "../models/Car";
-import {getAllCars} from "../services/CarService"
+
 import CarItem from "../components/CarItem";
 
-function getCars(): Car[] {
-    return getAllCars();
-}
 
 const HomeScreen = ({navigation}: { navigation: any }) => {
-    const [cars, setCars] = useState<Car[]>(() => getCars());
+    const [cars, setCars] = useState<Car[]>();
+
+    useEffect(() => {
+        const URL = 'http://10.0.2.2:8080/cars';
+
+        fetch(URL)
+            .then(response => response.json())
+            .then(json => setCars(json))
+    })
 
     const renderItem = ({item}: { item: Car }) => {
         const headerTitle = item.manufacturer + " " + item.model;

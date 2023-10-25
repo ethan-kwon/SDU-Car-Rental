@@ -5,7 +5,7 @@ export const cars: Car[] = [
         id: 1,
         manufacturer: "GMC",
         model: "Vandura G1500",
-        year: 1995,
+        productionYear: 1995,
         licenseNumber: "JN 1AV7A",
         color: "Violet",
         pricePerDay: 789
@@ -14,7 +14,7 @@ export const cars: Car[] = [
         id: 2,
         manufacturer: "Mercury",
         model: "Tracer",
-        year: 1996,
+        productionYear: 1996,
         licenseNumber: "WA ULC58",
         color: "Indigo",
         pricePerDay: 29
@@ -23,7 +23,7 @@ export const cars: Car[] = [
         id: 3,
         manufacturer: "GMC",
         model: "1500 Club Coupe",
-        year: 1997,
+        productionYear: 1997,
         licenseNumber: "WA UDN94",
         color: "Puce",
         pricePerDay: 512
@@ -32,7 +32,7 @@ export const cars: Car[] = [
         id: 4,
         manufacturer: "Chevrolet",
         model: "Express 1500",
-        year: 2002,
+        productionYear: 2002,
         licenseNumber: "WB ANU5C",
         color: "Mauv",
         pricePerDay: 250
@@ -41,7 +41,7 @@ export const cars: Car[] = [
         id: 5,
         manufacturer: "Mercedes-Benz",
         model: "S-Class",
-        year: 1991,
+        productionYear: 1991,
         licenseNumber: "YV 140ME",
         color: "Teal",
         pricePerDay: 333
@@ -50,7 +50,7 @@ export const cars: Car[] = [
         id: 6,
         manufacturer: "Buick",
         model: "Skylark",
-        year: 1988,
+        productionYear: 1988,
         licenseNumber: "WA UHF78",
         color: "Green",
         pricePerDay: 665
@@ -59,7 +59,7 @@ export const cars: Car[] = [
         id: 7,
         manufacturer: "Ford",
         model: "E-Series",
-        year: 1986,
+        productionYear: 1986,
         licenseNumber: "TR UTC28",
         color: "Indigo",
         pricePerDay: 407
@@ -68,7 +68,7 @@ export const cars: Car[] = [
         id: 8,
         manufacturer: "Buick",
         model: "Regal",
-        year: 2003,
+        productionYear: 2003,
         licenseNumber: "3F ADP4A",
         color: "Crimson",
         pricePerDay: 647
@@ -77,7 +77,7 @@ export const cars: Car[] = [
         id: 9,
         manufacturer: "Ford",
         model: "Taurus",
-        year: 1993,
+        productionYear: 1993,
         licenseNumber: "JT HBP5C",
         color: "Khaki",
         pricePerDay: 525
@@ -86,7 +86,7 @@ export const cars: Car[] = [
         id: 10,
         manufacturer: "Honda",
         model: "Odyssey",
-        year: 2012,
+        productionYear: 2012,
         licenseNumber: "1G 6AH5S",
         color: "Turquoise",
         pricePerDay: 326
@@ -95,7 +95,7 @@ export const cars: Car[] = [
         id: 11,
         manufacturer: "Alfa Romeo",
         model: "164",
-        year: 1994,
+        productionYear: 1994,
         licenseNumber: "4T 3BA3B",
         color: "Maroon",
         pricePerDay: 488
@@ -104,7 +104,7 @@ export const cars: Car[] = [
         id: 12,
         manufacturer: "Dodge",
         model: "Stealth",
-        year: 1994,
+        productionYear: 1994,
         licenseNumber: "MM WAA7A",
         color: "Khaki",
         pricePerDay: 153
@@ -113,7 +113,7 @@ export const cars: Car[] = [
         id: 13,
         manufacturer: "Ford",
         model: "F250",
-        year: 2000,
+        productionYear: 2000,
         licenseNumber: "WY USH98",
         color: "Crimson",
         pricePerDay: 744
@@ -122,7 +122,7 @@ export const cars: Car[] = [
         id: 14,
         manufacturer: "Mitsubishi",
         model: "Diamante",
-        year: 2000,
+        productionYear: 2000,
         licenseNumber: "ZZ 1WKBF",
         color: "Pink",
         pricePerDay: 965
@@ -131,7 +131,7 @@ export const cars: Car[] = [
         id: 15,
         manufacturer: "Ford",
         model: "Escort",
-        year: 1984,
+        productionYear: 1984,
         licenseNumber: "WA UKF68",
         color: "Yellow",
         pricePerDay: 808
