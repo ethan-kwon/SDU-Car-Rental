@@ -1,0 +1,16 @@
+INSERT INTO cars (manufacturer, model, production_year, license_number, color, price_per_day)
+VALUES ('GMC', 'Vandura G1500', 1995, 'JN 1AV7A', 'Violet', 789),
+       ('Mercury', 'Tracer', 1996, 'WA ULC58', 'Indigo', 29),
+       ('GMC', '1500 Club Coupe', 1997, 'WA UDN94', 'Puce', 512),
+       ('Chevrolet', 'Express 1500', 2002, 'WB ANU5C', 'Mauv', 250),
+       ('Mercedes-Benz', 'S-Class', 1991, 'YV 140ME', 'Teal', 333),
+       ('Buick', 'Skylark', 1988, 'WA UHF78', 'Green', 665),
+       ('Ford', 'E-Series', 1986, 'TR UTC28', 'Indigo', 407),
+       ('Buick', 'Regal', 2003, '3F ADP4A', 'Crimson', 647),
+       ('Ford', 'Taurus', 1993, 'JT HBP5C', 'Khaki', 525),
+       ('Honda', 'Odyssey', 2012, '1G 6AH5S', 'Turquoise', 326),
+       ('Alfa Romeo', '164', 1994, '4T 3BA3B', 'Maroon', 488),
+       ('Dodge', 'Stealth', 1994, 'MM WAA7A', 'Khaki', 153),
+       ('Ford', 'F250', 2000, 'WY USH98', 'Crimson', 744),
+       ('Mitsubishi', 'Diamante', 2000, 'ZZ 1WKBF', 'Pink', 965),
+       ('Ford', 'Escort', 1984, 'WA UKF68', 'Yellow', 808);
