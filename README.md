@@ -11,6 +11,7 @@ Mateusz: Home Page
 Figma Design File: https://www.figma.com/file/xqxv1HgYitYUSLF5Gg3EXM/SDU-Car-Rental-App?type=design&node-id=1%3A2&mode=design&t=wNPY4vRmALyl3v7X-1
 
 ## Models
+
 ### Car
 - UID
 - Brand
@@ -20,6 +21,13 @@ Figma Design File: https://www.figma.com/file/xqxv1HgYitYUSLF5Gg3EXM/SDU-Car-Ren
 - Price per Day
 - Photo
 
+### User
+- UID
+- First Name
+- Last Name
+- Birthday
+- Email
+
 ### Reservations
 - UID of User
 - UID of Car
@@ -27,11 +35,7 @@ Figma Design File: https://www.figma.com/file/xqxv1HgYitYUSLF5Gg3EXM/SDU-Car-Ren
 - Rental Start
 - Rental End
 
-### User
-- UID
-- Name
-- Reserved Cars
-  - UIDs of Cars
+
 
 ## Features
 - List of Cars Available
