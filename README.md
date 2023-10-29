@@ -13,11 +13,12 @@ Figma Design File: https://www.figma.com/file/xqxv1HgYitYUSLF5Gg3EXM/SDU-Car-Ren
 ## Models
 ### Car
 - UID
-- Photo
 - Brand
 - Model
-- Year
-- Price of Rental
+- Catagory
+- Number of Passenger
+- Price per Day
+- Photo
 
 ### Reservations
 - UID of User
