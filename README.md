@@ -29,11 +29,13 @@ Figma Design File: https://www.figma.com/file/xqxv1HgYitYUSLF5Gg3EXM/SDU-Car-Ren
 - Email
 
 ### Reservations
-- UID of User
-- UID of Car
+- UID
+- UID of Cser
+- UID of Uar
+- Start Date
+- End Date
+- Duration
 - Total Price
-- Rental Start
-- Rental End
 
 
 
