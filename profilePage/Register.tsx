@@ -7,6 +7,9 @@ const Register = () => {
 
   const handleRegister = () => {
 
+    const userData = { email, password };
+    console.log('User registered:', userData);
+
   };
 
   return (

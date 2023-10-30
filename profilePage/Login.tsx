@@ -6,7 +6,14 @@ const Login = () => {
   const [password, setPassword] = useState('');
 
   const handleLogin = () => {
+ 
+    if (email === 'user@example.com' && password === 'password123') {
+      console.log('Login successful');
 
+    } else {
+      console.log('Login failed');
+
+    }
   };
 
   return (
