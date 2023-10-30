@@ -1,12 +1,5 @@
 # SDU-Car-Rental
 
-## Current Tasks
-Frederik: Booking and Confirmation Page
-Geoffrey: Profile Page
-Ethan: Starting on Report
-Keen: Database Modelling
-Mateusz: Home Page
-
 ## About
 Figma Design File: https://www.figma.com/file/xqxv1HgYitYUSLF5Gg3EXM/SDU-Car-Rental-App?type=design&node-id=1%3A2&mode=design&t=wNPY4vRmALyl3v7X-1
 
