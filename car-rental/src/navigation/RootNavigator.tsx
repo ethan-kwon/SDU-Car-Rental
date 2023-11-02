@@ -25,7 +25,11 @@ const RootNavigator = () => {
                 tabBarInactiveTintColor: COLORS.LIGHT_GRAY,
                 tabBarStyle: {
                     backgroundColor: COLORS.WHITE
-                }, headerShown: false
+                }, tabBarLabelStyle: {
+                    fontFamily: "roboto-regular",
+                    fontSize: 14
+                },
+                headerShown: false
             })}>
                 <Tab.Screen name={"Home"} component={CarNavigator}/>
                 <Tab.Screen name={"Profile"} component={ProfileScreen}/>
