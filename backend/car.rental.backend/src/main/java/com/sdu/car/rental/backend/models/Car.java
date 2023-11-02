@@ -22,11 +22,13 @@ public class Car {
     @Enumerated(EnumType.STRING)
     private TransmissionType transmissionType;
 
+    private String fileName;
+
     public Car() {
 
     }
 
-    public Car(String manufacturer, String model, int seatsNumber, CarType carType, String color, int pricePerDay, TransmissionType transmissionType) {
+    public Car(String manufacturer, String model, int seatsNumber, CarType carType, String color, int pricePerDay, TransmissionType transmissionType, String fileName) {
         this.manufacturer = manufacturer;
         this.model = model;
         this.seatsNumber = seatsNumber;
@@ -34,6 +36,7 @@ public class Car {
         this.color = color;
         this.pricePerDay = pricePerDay;
         this.transmissionType = transmissionType;
+        this.fileName = fileName;
     }
 
     public Long getId() {
@@ -98,5 +101,13 @@ public class Car {
 
     public void setTransmissionType(TransmissionType transmissionType) {
         this.transmissionType = transmissionType;
+    }
+
+    public String getFileName() {
+        return fileName;
+    }
+
+    public void setFileName(String fileName) {
+        this.fileName = fileName;
     }
 }
