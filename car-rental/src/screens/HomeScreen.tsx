@@ -40,13 +40,8 @@ const HomeScreen = ({navigation}: { navigation: any }) => {
     }, [])
 
     const renderItem = ({item}: { item: Car }) => {
-        const headerTitle = item.manufacturer + " " + item.model;
         return (
-            <TouchableOpacity
-                onPress={() => navigation.navigate("CarDetails", {car: item, headerTitle: headerTitle})}
-            >
-                <CarItem car={item}/>
-            </TouchableOpacity>
+            <CarItem car={item} navigation={navigation}/>
         );
     }
 
@@ -67,7 +62,6 @@ const styles = StyleSheet.create({
     wrapper: {
         flex: 1,
         marginTop: StatusBar.currentHeight || 0
-
     }
 });
 
