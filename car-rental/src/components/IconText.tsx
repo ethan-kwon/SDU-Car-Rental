@@ -1,10 +1,11 @@
 import React from "react";
 import {StyleSheet, Text, View} from "react-native";
-import {Ionicons, FontAwesome} from '@expo/vector-icons';
+import {Ionicons, FontAwesome, FontAwesome5} from '@expo/vector-icons';
 
 export enum IconType {
     Ionicons,
-    FontAwesome
+    FontAwesome,
+    FontAwesome5
 }
 
 interface IconTextProps {
@@ -24,6 +25,9 @@ const IconText = (props: IconTextProps) => {
             break;
         case IconType.FontAwesome:
             icon = <FontAwesome name={props.iconName} size={props.iconSize} color={props.iconColor}/>;
+            break;
+        case IconType.FontAwesome5:
+            icon = <FontAwesome5 name={props.iconName} size={props.iconSize} color={props.iconColor}/>;
             break;
     }
 

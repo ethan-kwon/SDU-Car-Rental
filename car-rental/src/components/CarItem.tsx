@@ -30,30 +30,30 @@ const CarItem = (props: CarItemProps) => {
                               iconName={"person"}
                               iconSize={24}
                               iconColor={COLORS.DARK_GRAY}
-                              bodyText={"4 seater"}
+                              bodyText={`${props.car.seatsNumber} seater`}
                               bodyTextStyle={[fonts.bodyMedium, styles.descriptionText]}
                     />
                     <IconText iconType={IconType.Ionicons}
                               iconName={"car-sport"}
                               iconSize={24}
                               iconColor={COLORS.DARK_GRAY}
-                              bodyText={"SUV"}
+                              bodyText={`${props.car.carType}`.replace('_', '-')}
                               bodyTextStyle={[fonts.bodyMedium, styles.descriptionText]}
                     />
                     <IconText iconType={IconType.FontAwesome}
                               iconName={"gear"}
                               iconSize={24}
                               iconColor={COLORS.DARK_GRAY}
-                              bodyText={"Manual"}
+                              bodyText={`${props.car.transmissionType}`}
                               bodyTextStyle={[fonts.bodyMedium, styles.descriptionText]}
                     />
                 </View>
                 <View style={styles.priceBox}>
-                    <IconText iconType={IconType.FontAwesome}
-                              iconName={"dollar"}
+                    <IconText iconType={IconType.FontAwesome5}
+                              iconName={"coins"}
                               iconSize={24}
                               iconColor={COLORS.GREEN}
-                              bodyText={"199$ /day"}
+                              bodyText={`${props.car.pricePerDay}DKK / Day`}
                               bodyTextStyle={[fonts.bodyMedium, styles.priceText]}
                     />
                 </View>
@@ -75,7 +75,8 @@ const styles = StyleSheet.create({
         width: "100%",
         height: 188
     }, descriptionText: {
-        color: COLORS.DARK_GRAY
+        color: COLORS.DARK_GRAY,
+        textTransform: "capitalize"
     }, descriptionBox: {
         margin: 16,
         flexDirection: "row",
@@ -88,6 +89,8 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: "700",
         color: COLORS.GREEN
+    }, capitilizedText: {
+        textTransform: "capitalize"
     }
 })
 export default CarItem;
