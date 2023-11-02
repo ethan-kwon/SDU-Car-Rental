@@ -12,23 +12,28 @@ public class Car {
     private String manufacturer;
     private String model;
 
-    private int productionYear;
-    private String licenseNumber;
+    private int seatsNumber;
+    @Enumerated(EnumType.STRING)
+    private CarType carType;
     private String color;
 
     private int pricePerDay;
+
+    @Enumerated(EnumType.STRING)
+    private TransmissionType transmissionType;
 
     public Car() {
 
     }
 
-    public Car(String manufacturer, String model, int productionYear, String licenseNumber, String color, int pricePerDay) {
+    public Car(String manufacturer, String model, int seatsNumber, CarType carType, String color, int pricePerDay, TransmissionType transmissionType) {
         this.manufacturer = manufacturer;
         this.model = model;
-        this.productionYear = productionYear;
-        this.licenseNumber = licenseNumber;
+        this.seatsNumber = seatsNumber;
+        this.carType = carType;
         this.color = color;
         this.pricePerDay = pricePerDay;
+        this.transmissionType = transmissionType;
     }
 
     public Long getId() {
@@ -55,20 +60,20 @@ public class Car {
         this.model = model;
     }
 
-    public int getProductionYear() {
-        return productionYear;
+    public int getSeatsNumber() {
+        return seatsNumber;
     }
 
-    public void setProductionYear(int productionYear) {
-        this.productionYear = productionYear;
+    public void setSeatsNumber(int productionYear) {
+        this.seatsNumber = productionYear;
     }
 
-    public String getLicenseNumber() {
-        return licenseNumber;
+    public CarType getCarType() {
+        return carType;
     }
 
-    public void setLicenseNumber(String licenseNumber) {
-        this.licenseNumber = licenseNumber;
+    public void setCarType(CarType licenseNumber) {
+        this.carType = licenseNumber;
     }
 
     public String getColor() {
@@ -85,5 +90,13 @@ public class Car {
 
     public void setPricePerDay(int pricePerDay) {
         this.pricePerDay = pricePerDay;
+    }
+
+    public TransmissionType getTransmissionType() {
+        return transmissionType;
+    }
+
+    public void setTransmissionType(TransmissionType transmissionType) {
+        this.transmissionType = transmissionType;
     }
 }
