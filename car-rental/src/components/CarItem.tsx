@@ -31,21 +31,21 @@ const CarItem = (props: CarItemProps) => {
                               iconSize={24}
                               iconColor={COLORS.DARK_GRAY}
                               bodyText={"4 seater"}
-                              bodyTextStyle={fonts.bodyMedium}
+                              bodyTextStyle={[fonts.bodyMedium, styles.descriptionText]}
                     />
                     <IconText iconType={IconType.Ionicons}
                               iconName={"car-sport"}
                               iconSize={24}
                               iconColor={COLORS.DARK_GRAY}
                               bodyText={"SUV"}
-                              bodyTextStyle={fonts.bodyMedium}
+                              bodyTextStyle={[fonts.bodyMedium, styles.descriptionText]}
                     />
                     <IconText iconType={IconType.FontAwesome}
                               iconName={"gear"}
                               iconSize={24}
                               iconColor={COLORS.DARK_GRAY}
                               bodyText={"Manual"}
-                              bodyTextStyle={fonts.bodyMedium}
+                              bodyTextStyle={[fonts.bodyMedium, styles.descriptionText]}
                     />
                 </View>
                 <View style={styles.priceBox}>
@@ -74,6 +74,8 @@ const styles = StyleSheet.create({
     }, carImage: {
         width: "100%",
         height: 188
+    }, descriptionText: {
+        color: COLORS.DARK_GRAY
     }, descriptionBox: {
         margin: 16,
         flexDirection: "row",
