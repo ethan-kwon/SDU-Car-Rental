@@ -23,10 +23,10 @@ const HomeScreen = ({navigation}: { navigation: any }) => {
     const loadAllCars = async () => {
         const carsFromStorage = await getCarsFromStorage();
 
-        if (carsFromStorage !== null) {
+       /* if (carsFromStorage !== null) {
             setCars(JSON.parse(carsFromStorage));
             return;
-        }
+        }*/
 
         await getCarsFromApi().then(async result => {
             await AsyncStorage.setItem(CARS_KEY, JSON.stringify(result));

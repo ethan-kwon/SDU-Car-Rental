@@ -5,6 +5,7 @@ import IconText, {IconType} from "./IconText";
 import globalStyles from "../styles/styles";
 import fonts from "../styles/fonts";
 import {COLORS} from "../styles/colors";
+import {CAR_IMAGES} from "./CarImages";
 
 interface CarItemProps {
     car: Car;
@@ -22,7 +23,7 @@ const CarItem = (props: CarItemProps) => {
                 <View style={styles.headerBox}>
                     <Text style={fonts.titleMedium}>{props.car.manufacturer} {props.car.model}</Text>
                 </View>
-                <Image source={require("../../assets/car-images/placeholder.png")}
+                <Image source={CAR_IMAGES[`${props.car.fileName}`]}
                        style={styles.carImage}
                 />
                 <View style={styles.descriptionBox}>

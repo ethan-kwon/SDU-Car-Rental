@@ -27,6 +27,7 @@ interface Car {
     color: string;
     pricePerDay: number;
     transmissionType: TransmissionType;
+    fileName: string;
 }
 
 export default Car;
