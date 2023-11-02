@@ -24,13 +24,13 @@ const IconText = (props: IconTextProps) => {
             break;
         case IconType.FontAwesome:
             icon = <FontAwesome name={props.iconName} size={props.iconSize} color={props.iconColor}/>;
-            break
+            break;
     }
 
     return (
         <View style={styles.container}>
             {icon}
-            <Text style={props.bodyTextStyle}>{props.bodyText}</Text>
+            <Text style={[styles.iconText, props.bodyTextStyle]}>{props.bodyText}</Text>
         </View>
     );
 }
@@ -39,7 +39,9 @@ const styles = StyleSheet.create({
     container: {
         alignItems: "center",
         flexDirection: "row",
-    },
+    }, iconText: {
+        marginLeft: 5
+    }
 });
 
 export default IconText;

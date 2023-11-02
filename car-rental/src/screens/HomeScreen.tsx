@@ -1,9 +1,9 @@
-import {FlatList, SafeAreaView, StatusBar, StyleSheet, TouchableOpacity, View} from "react-native";
+import {FlatList, SafeAreaView, StatusBar, StyleSheet, View} from "react-native";
 import {useEffect, useState} from "react";
 import Car from "../models/Car";
-
 import CarItem from "../components/CarItem";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import {COLORS} from "../styles/colors";
 
 const CARS_KEY = 'CARS'
 
@@ -34,7 +34,6 @@ const HomeScreen = ({navigation}: { navigation: any }) => {
         });
     }
 
-
     useEffect(() => {
         loadAllCars().then();
     }, [])
@@ -61,7 +60,8 @@ const HomeScreen = ({navigation}: { navigation: any }) => {
 const styles = StyleSheet.create({
     wrapper: {
         flex: 1,
-        marginTop: StatusBar.currentHeight || 0
+        marginTop: StatusBar.currentHeight || 0,
+        backgroundColor: COLORS.LIGHT_LIGHT_GRAY
     }
 });
 
