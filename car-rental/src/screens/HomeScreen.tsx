@@ -70,6 +70,7 @@ const HomeScreen = ({navigation}: { navigation: any }) => {
                 renderItem={renderItem}
                 keyExtractor={item => item.id.toString()}
                 style={styles.carList}
+                overScrollMode="never"
             />
         </SafeAreaView>
     );
