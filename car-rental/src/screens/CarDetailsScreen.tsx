@@ -7,7 +7,7 @@ interface CarDetailsScreenProps {
 }
 
 const CarDetailsScreen = (props: CarDetailsScreenProps) => {
-    const [car, setCar] = useState(() => {
+    const [car] = useState(() => {
         const {car} = props.route.params;
         return car;
     });
@@ -19,13 +19,14 @@ const CarDetailsScreen = (props: CarDetailsScreenProps) => {
 
     return (
         <View>
-            <Text>{car.id}</Text>
-            <Text>{car.manufacturer}</Text>
-            <Text>{car.model}</Text>
-            <Text>{car.productionYear}</Text>
-            <Text>{car.licenseNumber}</Text>
-            <Text>{car.color}</Text>
-            <Text>{car.pricePerDay}</Text>
+            <Text>ID: {car.id}</Text>
+            <Text>Manufacturer: {car.manufacturer}</Text>
+            <Text>Model: {car.model}</Text>
+            <Text>Seats number: {car.seatsNumber}</Text>
+            <Text>Type: {car.carType.toString()}</Text>
+            <Text>Color: {car.color}</Text>
+            <Text>Price per day: {car.pricePerDay}DKK</Text>
+            <Text>Transmission type: {car.transmissionType.toString()}</Text>
         </View>
     );
 }
