@@ -1,0 +1,5402 @@
+[
+    {
+        "id": "r3370",
+        "car_id": "c8820",
+        "user_id": "u3023",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-07",
+        "duration": "6",
+        "total_price": "3804"
+    },
+    {
+        "id": "r2298",
+        "car_id": "c1047",
+        "user_id": "u4063",
+        "start_date": "2023-11-27",
+        "end_date": "2023-12-04",
+        "duration": "7",
+        "total_price": "3675"
+    },
+    {
+        "id": "r1604",
+        "car_id": "c1708",
+        "user_id": "u2126",
+        "start_date": "2023-12-03",
+        "end_date": "2023-12-04",
+        "duration": "1",
+        "total_price": "654"
+    },
+    {
+        "id": "r8773",
+        "car_id": "c3501",
+        "user_id": "u1148",
+        "start_date": "2023-07-11",
+        "end_date": "2023-07-14",
+        "duration": "3",
+        "total_price": "2832"
+    },
+    {
+        "id": "r9080",
+        "car_id": "c4806",
+        "user_id": "u7879",
+        "start_date": "2023-04-06",
+        "end_date": "2023-04-12",
+        "duration": "6",
+        "total_price": "5418"
+    },
+    {
+        "id": "r7584",
+        "car_id": "c2145",
+        "user_id": "u9357",
+        "start_date": "2023-08-11",
+        "end_date": "2023-08-17",
+        "duration": "6",
+        "total_price": "5862"
+    },
+    {
+        "id": "r4753",
+        "car_id": "c9383",
+        "user_id": "u3023",
+        "start_date": "2023-06-19",
+        "end_date": "2023-06-26",
+        "duration": "7",
+        "total_price": "6755"
+    },
+    {
+        "id": "r3534",
+        "car_id": "c3174",
+        "user_id": "u4356",
+        "start_date": "2023-05-07",
+        "end_date": "2023-05-12",
+        "duration": "5",
+        "total_price": "2865"
+    },
+    {
+        "id": "r6133",
+        "car_id": "c8721",
+        "user_id": "u9237",
+        "start_date": "2023-06-23",
+        "end_date": "2023-06-29",
+        "duration": "6",
+        "total_price": "5676"
+    },
+    {
+        "id": "r5241",
+        "car_id": "c7352",
+        "user_id": "u5526",
+        "start_date": "2023-02-28",
+        "end_date": "2023-03-05",
+        "duration": "5",
+        "total_price": "3045"
+    },
+    {
+        "id": "r9183",
+        "car_id": "c9503",
+        "user_id": "u7556",
+        "start_date": "2023-06-12",
+        "end_date": "2023-06-19",
+        "duration": "7",
+        "total_price": "6888"
+    },
+    {
+        "id": "r5068",
+        "car_id": "c1726",
+        "user_id": "u6582",
+        "start_date": "2023-06-06",
+        "end_date": "2023-06-12",
+        "duration": "6",
+        "total_price": "3750"
+    },
+    {
+        "id": "r1300",
+        "car_id": "c4694",
+        "user_id": "u5062",
+        "start_date": "2023-09-16",
+        "end_date": "2023-09-20",
+        "duration": "4",
+        "total_price": "2692"
+    },
+    {
+        "id": "r9970",
+        "car_id": "c1636",
+        "user_id": "u3086",
+        "start_date": "2023-07-15",
+        "end_date": "2023-07-21",
+        "duration": "6",
+        "total_price": "3522"
+    },
+    {
+        "id": "r7988",
+        "car_id": "c2715",
+        "user_id": "u3680",
+        "start_date": "2023-03-15",
+        "end_date": "2023-03-19",
+        "duration": "4",
+        "total_price": "3700"
+    },
+    {
+        "id": "r1584",
+        "car_id": "c6476",
+        "user_id": "u3554",
+        "start_date": "2023-12-21",
+        "end_date": "2023-12-24",
+        "duration": "3",
+        "total_price": "1728"
+    },
+    {
+        "id": "r7389",
+        "car_id": "c8131",
+        "user_id": "u9082",
+        "start_date": "2023-01-16",
+        "end_date": "2023-01-20",
+        "duration": "4",
+        "total_price": "2740"
+    },
+    {
+        "id": "r8524",
+        "car_id": "c3308",
+        "user_id": "u6322",
+        "start_date": "2023-11-29",
+        "end_date": "2023-11-30",
+        "duration": "1",
+        "total_price": "791"
+    },
+    {
+        "id": "r9768",
+        "car_id": "c3824",
+        "user_id": "u6150",
+        "start_date": "2023-02-13",
+        "end_date": "2023-02-19",
+        "duration": "6",
+        "total_price": "4956"
+    },
+    {
+        "id": "r9955",
+        "car_id": "c1204",
+        "user_id": "u7556",
+        "start_date": "2023-03-31",
+        "end_date": "2023-04-04",
+        "duration": "4",
+        "total_price": "3928"
+    },
+    {
+        "id": "r1515",
+        "car_id": "c4597",
+        "user_id": "u5540",
+        "start_date": "2023-11-07",
+        "end_date": "2023-11-08",
+        "duration": "1",
+        "total_price": "448"
+    },
+    {
+        "id": "r1209",
+        "car_id": "c6149",
+        "user_id": "u4999",
+        "start_date": "2023-08-26",
+        "end_date": "2023-08-27",
+        "duration": "1",
+        "total_price": "547"
+    },
+    {
+        "id": "r8094",
+        "car_id": "c7832",
+        "user_id": "u6574",
+        "start_date": "2023-10-07",
+        "end_date": "2023-10-11",
+        "duration": "4",
+        "total_price": "2724"
+    },
+    {
+        "id": "r3485",
+        "car_id": "c1636",
+        "user_id": "u9525",
+        "start_date": "2023-01-05",
+        "end_date": "2023-01-08",
+        "duration": "3",
+        "total_price": "1761"
+    },
+    {
+        "id": "r4943",
+        "car_id": "c6336",
+        "user_id": "u6724",
+        "start_date": "2023-10-03",
+        "end_date": "2023-10-07",
+        "duration": "4",
+        "total_price": "3308"
+    },
+    {
+        "id": "r5808",
+        "car_id": "c7304",
+        "user_id": "u6399",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-24",
+        "duration": "5",
+        "total_price": "2820"
+    },
+    {
+        "id": "r4941",
+        "car_id": "c7352",
+        "user_id": "u3246",
+        "start_date": "2023-07-29",
+        "end_date": "2023-08-01",
+        "duration": "3",
+        "total_price": "1827"
+    },
+    {
+        "id": "r6832",
+        "car_id": "c2005",
+        "user_id": "u4141",
+        "start_date": "2023-04-17",
+        "end_date": "2023-04-23",
+        "duration": "6",
+        "total_price": "2628"
+    },
+    {
+        "id": "r3413",
+        "car_id": "c7594",
+        "user_id": "u2953",
+        "start_date": "2023-05-23",
+        "end_date": "2023-05-28",
+        "duration": "5",
+        "total_price": "4815"
+    },
+    {
+        "id": "r9511",
+        "car_id": "c7958",
+        "user_id": "u6873",
+        "start_date": "2023-07-17",
+        "end_date": "2023-07-24",
+        "duration": "7",
+        "total_price": "4305"
+    },
+    {
+        "id": "r5275",
+        "car_id": "c6379",
+        "user_id": "u5554",
+        "start_date": "2023-10-11",
+        "end_date": "2023-10-15",
+        "duration": "4",
+        "total_price": "1644"
+    },
+    {
+        "id": "r3688",
+        "car_id": "c9050",
+        "user_id": "u9357",
+        "start_date": "2023-03-18",
+        "end_date": "2023-03-22",
+        "duration": "4",
+        "total_price": "3496"
+    },
+    {
+        "id": "r2179",
+        "car_id": "c2616",
+        "user_id": "u7141",
+        "start_date": "2023-06-24",
+        "end_date": "2023-06-26",
+        "duration": "2",
+        "total_price": "864"
+    },
+    {
+        "id": "r3605",
+        "car_id": "c6083",
+        "user_id": "u7002",
+        "start_date": "2023-03-11",
+        "end_date": "2023-03-15",
+        "duration": "4",
+        "total_price": "1920"
+    },
+    {
+        "id": "r2497",
+        "car_id": "c3334",
+        "user_id": "u6150",
+        "start_date": "2023-05-16",
+        "end_date": "2023-05-18",
+        "duration": "2",
+        "total_price": "1036"
+    },
+    {
+        "id": "r6639",
+        "car_id": "c6149",
+        "user_id": "u6563",
+        "start_date": "2023-03-24",
+        "end_date": "2023-03-25",
+        "duration": "1",
+        "total_price": "547"
+    },
+    {
+        "id": "r8427",
+        "car_id": "c2616",
+        "user_id": "u9843",
+        "start_date": "2023-05-28",
+        "end_date": "2023-05-29",
+        "duration": "1",
+        "total_price": "432"
+    },
+    {
+        "id": "r2929",
+        "car_id": "c1924",
+        "user_id": "u5669",
+        "start_date": "2023-08-16",
+        "end_date": "2023-08-17",
+        "duration": "1",
+        "total_price": "980"
+    },
+    {
+        "id": "r5782",
+        "car_id": "c4132",
+        "user_id": "u9804",
+        "start_date": "2023-05-11",
+        "end_date": "2023-05-16",
+        "duration": "5",
+        "total_price": "4550"
+    },
+    {
+        "id": "r1753",
+        "car_id": "c3174",
+        "user_id": "u7590",
+        "start_date": "2023-04-25",
+        "end_date": "2023-05-01",
+        "duration": "6",
+        "total_price": "3438"
+    },
+    {
+        "id": "r1678",
+        "car_id": "c5206",
+        "user_id": "u2809",
+        "start_date": "2023-01-22",
+        "end_date": "2023-01-25",
+        "duration": "3",
+        "total_price": "2646"
+    },
+    {
+        "id": "r5975",
+        "car_id": "c3334",
+        "user_id": "u8230",
+        "start_date": "2023-05-13",
+        "end_date": "2023-05-20",
+        "duration": "7",
+        "total_price": "3626"
+    },
+    {
+        "id": "r3668",
+        "car_id": "c4286",
+        "user_id": "u4000",
+        "start_date": "2023-06-04",
+        "end_date": "2023-06-07",
+        "duration": "3",
+        "total_price": "2343"
+    },
+    {
+        "id": "r4991",
+        "car_id": "c5184",
+        "user_id": "u1922",
+        "start_date": "2023-05-17",
+        "end_date": "2023-05-23",
+        "duration": "6",
+        "total_price": "5184"
+    },
+    {
+        "id": "r8763",
+        "car_id": "c9900",
+        "user_id": "u4397",
+        "start_date": "2023-12-26",
+        "end_date": "2023-12-28",
+        "duration": "2",
+        "total_price": "1736"
+    },
+    {
+        "id": "r4019",
+        "car_id": "c6336",
+        "user_id": "u4604",
+        "start_date": "2023-05-05",
+        "end_date": "2023-05-12",
+        "duration": "7",
+        "total_price": "5789"
+    },
+    {
+        "id": "r1925",
+        "car_id": "c6342",
+        "user_id": "u3288",
+        "start_date": "2023-10-14",
+        "end_date": "2023-10-20",
+        "duration": "6",
+        "total_price": "4320"
+    },
+    {
+        "id": "r8821",
+        "car_id": "c7284",
+        "user_id": "u5745",
+        "start_date": "2023-03-21",
+        "end_date": "2023-03-27",
+        "duration": "6",
+        "total_price": "4152"
+    },
+    {
+        "id": "r4021",
+        "car_id": "c2830",
+        "user_id": "u4189",
+        "start_date": "2023-09-28",
+        "end_date": "2023-10-05",
+        "duration": "7",
+        "total_price": "6657"
+    },
+    {
+        "id": "r4739",
+        "car_id": "c7283",
+        "user_id": "u4306",
+        "start_date": "2023-12-19",
+        "end_date": "2023-12-23",
+        "duration": "4",
+        "total_price": "2156"
+    },
+    {
+        "id": "r8157",
+        "car_id": "c4994",
+        "user_id": "u1752",
+        "start_date": "2023-06-14",
+        "end_date": "2023-06-21",
+        "duration": "7",
+        "total_price": "6153"
+    },
+    {
+        "id": "r9844",
+        "car_id": "c5917",
+        "user_id": "u2366",
+        "start_date": "2023-06-12",
+        "end_date": "2023-06-18",
+        "duration": "6",
+        "total_price": "3012"
+    },
+    {
+        "id": "r3492",
+        "car_id": "c3334",
+        "user_id": "u9395",
+        "start_date": "2023-09-14",
+        "end_date": "2023-09-20",
+        "duration": "6",
+        "total_price": "3108"
+    },
+    {
+        "id": "r2122",
+        "car_id": "c9323",
+        "user_id": "u4000",
+        "start_date": "2023-03-07",
+        "end_date": "2023-03-08",
+        "duration": "1",
+        "total_price": "882"
+    },
+    {
+        "id": "r5803",
+        "car_id": "c1596",
+        "user_id": "u3513",
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-07",
+        "duration": "6",
+        "total_price": "4530"
+    },
+    {
+        "id": "r6959",
+        "car_id": "c2830",
+        "user_id": "u5855",
+        "start_date": "2023-04-17",
+        "end_date": "2023-04-20",
+        "duration": "3",
+        "total_price": "2853"
+    },
+    {
+        "id": "r8122",
+        "car_id": "c1300",
+        "user_id": "u6015",
+        "start_date": "2023-02-09",
+        "end_date": "2023-02-14",
+        "duration": "5",
+        "total_price": "2915"
+    },
+    {
+        "id": "r7986",
+        "car_id": "c6962",
+        "user_id": "u2165",
+        "start_date": "2023-04-28",
+        "end_date": "2023-05-03",
+        "duration": "5",
+        "total_price": "3945"
+    },
+    {
+        "id": "r9487",
+        "car_id": "c6483",
+        "user_id": "u8277",
+        "start_date": "2023-02-14",
+        "end_date": "2023-02-17",
+        "duration": "3",
+        "total_price": "1419"
+    },
+    {
+        "id": "r2650",
+        "car_id": "c4806",
+        "user_id": "u6055",
+        "start_date": "2023-02-23",
+        "end_date": "2023-03-01",
+        "duration": "6",
+        "total_price": "5418"
+    },
+    {
+        "id": "r1097",
+        "car_id": "c1388",
+        "user_id": "u7935",
+        "start_date": "2023-02-18",
+        "end_date": "2023-02-21",
+        "duration": "3",
+        "total_price": "2766"
+    },
+    {
+        "id": "r7535",
+        "car_id": "c7724",
+        "user_id": "u3079",
+        "start_date": "2023-05-15",
+        "end_date": "2023-05-20",
+        "duration": "5",
+        "total_price": "4470"
+    },
+    {
+        "id": "r1442",
+        "car_id": "c2616",
+        "user_id": "u2125",
+        "start_date": "2023-12-24",
+        "end_date": "2023-12-25",
+        "duration": "1",
+        "total_price": "432"
+    },
+    {
+        "id": "r5039",
+        "car_id": "c6979",
+        "user_id": "u6344",
+        "start_date": "2023-07-11",
+        "end_date": "2023-07-15",
+        "duration": "4",
+        "total_price": "2220"
+    },
+    {
+        "id": "r2345",
+        "car_id": "c7832",
+        "user_id": "u9780",
+        "start_date": "2023-12-20",
+        "end_date": "2023-12-22",
+        "duration": "2",
+        "total_price": "1362"
+    },
+    {
+        "id": "r4749",
+        "car_id": "c2630",
+        "user_id": "u9262",
+        "start_date": "2023-09-07",
+        "end_date": "2023-09-09",
+        "duration": "2",
+        "total_price": "1190"
+    },
+    {
+        "id": "r8897",
+        "car_id": "c9229",
+        "user_id": "u2394",
+        "start_date": "2023-05-17",
+        "end_date": "2023-05-23",
+        "duration": "6",
+        "total_price": "4458"
+    },
+    {
+        "id": "r7870",
+        "car_id": "c7013",
+        "user_id": "u2084",
+        "start_date": "2023-09-30",
+        "end_date": "2023-10-03",
+        "duration": "3",
+        "total_price": "1200"
+    },
+    {
+        "id": "r6241",
+        "car_id": "c5974",
+        "user_id": "u4604",
+        "start_date": "2023-03-21",
+        "end_date": "2023-03-22",
+        "duration": "1",
+        "total_price": "416"
+    },
+    {
+        "id": "r7709",
+        "car_id": "c5206",
+        "user_id": "u9699",
+        "start_date": "2023-12-12",
+        "end_date": "2023-12-16",
+        "duration": "4",
+        "total_price": "3528"
+    },
+    {
+        "id": "r6159",
+        "car_id": "c9503",
+        "user_id": "u3930",
+        "start_date": "2023-05-01",
+        "end_date": "2023-05-03",
+        "duration": "2",
+        "total_price": "1968"
+    },
+    {
+        "id": "r3817",
+        "car_id": "c8338",
+        "user_id": "u2282",
+        "start_date": "2023-12-24",
+        "end_date": "2023-12-26",
+        "duration": "2",
+        "total_price": "848"
+    },
+    {
+        "id": "r9057",
+        "car_id": "c9324",
+        "user_id": "u6780",
+        "start_date": "2023-01-18",
+        "end_date": "2023-01-22",
+        "duration": "4",
+        "total_price": "2900"
+    },
+    {
+        "id": "r8180",
+        "car_id": "c2830",
+        "user_id": "u6181",
+        "start_date": "2023-05-23",
+        "end_date": "2023-05-28",
+        "duration": "5",
+        "total_price": "4755"
+    },
+    {
+        "id": "r4357",
+        "car_id": "c8551",
+        "user_id": "u7869",
+        "start_date": "2023-08-21",
+        "end_date": "2023-08-28",
+        "duration": "7",
+        "total_price": "3465"
+    },
+    {
+        "id": "r1456",
+        "car_id": "c3326",
+        "user_id": "u4848",
+        "start_date": "2023-07-09",
+        "end_date": "2023-07-14",
+        "duration": "5",
+        "total_price": "4965"
+    },
+    {
+        "id": "r2241",
+        "car_id": "c5830",
+        "user_id": "u3187",
+        "start_date": "2023-02-27",
+        "end_date": "2023-02-28",
+        "duration": "1",
+        "total_price": "508"
+    },
+    {
+        "id": "r3702",
+        "car_id": "c3550",
+        "user_id": "u2719",
+        "start_date": "2023-05-19",
+        "end_date": "2023-05-26",
+        "duration": "7",
+        "total_price": "5383"
+    },
+    {
+        "id": "r9782",
+        "car_id": "c2176",
+        "user_id": "u9513",
+        "start_date": "2023-05-21",
+        "end_date": "2023-05-22",
+        "duration": "1",
+        "total_price": "425"
+    },
+    {
+        "id": "r7265",
+        "car_id": "c3226",
+        "user_id": "u4189",
+        "start_date": "2023-04-12",
+        "end_date": "2023-04-16",
+        "duration": "4",
+        "total_price": "2204"
+    },
+    {
+        "id": "r1186",
+        "car_id": "c2005",
+        "user_id": "u9127",
+        "start_date": "2023-12-21",
+        "end_date": "2023-12-26",
+        "duration": "5",
+        "total_price": "2190"
+    },
+    {
+        "id": "r7100",
+        "car_id": "c1745",
+        "user_id": "u2715",
+        "start_date": "2023-07-08",
+        "end_date": "2023-07-13",
+        "duration": "5",
+        "total_price": "4875"
+    },
+    {
+        "id": "r3493",
+        "car_id": "c6854",
+        "user_id": "u7141",
+        "start_date": "2023-05-06",
+        "end_date": "2023-05-09",
+        "duration": "3",
+        "total_price": "2784"
+    },
+    {
+        "id": "r2418",
+        "car_id": "c6476",
+        "user_id": "u9585",
+        "start_date": "2023-09-21",
+        "end_date": "2023-09-22",
+        "duration": "1",
+        "total_price": "576"
+    },
+    {
+        "id": "r8070",
+        "car_id": "c3326",
+        "user_id": "u7708",
+        "start_date": "2023-01-31",
+        "end_date": "2023-02-01",
+        "duration": "1",
+        "total_price": "993"
+    },
+    {
+        "id": "r6935",
+        "car_id": "c8551",
+        "user_id": "u7619",
+        "start_date": "2023-10-22",
+        "end_date": "2023-10-23",
+        "duration": "1",
+        "total_price": "495"
+    },
+    {
+        "id": "r3623",
+        "car_id": "c2410",
+        "user_id": "u9082",
+        "start_date": "2023-04-09",
+        "end_date": "2023-04-12",
+        "duration": "3",
+        "total_price": "1296"
+    },
+    {
+        "id": "r6312",
+        "car_id": "c3946",
+        "user_id": "u9176",
+        "start_date": "2023-04-18",
+        "end_date": "2023-04-21",
+        "duration": "3",
+        "total_price": "1461"
+    },
+    {
+        "id": "r4627",
+        "car_id": "c7423",
+        "user_id": "u1302",
+        "start_date": "2023-03-15",
+        "end_date": "2023-03-16",
+        "duration": "1",
+        "total_price": "544"
+    },
+    {
+        "id": "r5627",
+        "car_id": "c3139",
+        "user_id": "u5981",
+        "start_date": "2023-10-19",
+        "end_date": "2023-10-21",
+        "duration": "2",
+        "total_price": "1992"
+    },
+    {
+        "id": "r1178",
+        "car_id": "c1651",
+        "user_id": "u5990",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-13",
+        "duration": "2",
+        "total_price": "1664"
+    },
+    {
+        "id": "r8486",
+        "car_id": "c3139",
+        "user_id": "u4407",
+        "start_date": "2023-07-03",
+        "end_date": "2023-07-06",
+        "duration": "3",
+        "total_price": "2988"
+    },
+    {
+        "id": "r8860",
+        "car_id": "c2532",
+        "user_id": "u4836",
+        "start_date": "2023-07-18",
+        "end_date": "2023-07-25",
+        "duration": "7",
+        "total_price": "5600"
+    },
+    {
+        "id": "r7269",
+        "car_id": "c9871",
+        "user_id": "u4498",
+        "start_date": "2023-07-20",
+        "end_date": "2023-07-26",
+        "duration": "6",
+        "total_price": "5784"
+    },
+    {
+        "id": "r5534",
+        "car_id": "c4030",
+        "user_id": "u5990",
+        "start_date": "2023-07-31",
+        "end_date": "2023-08-05",
+        "duration": "5",
+        "total_price": "3265"
+    },
+    {
+        "id": "r8863",
+        "car_id": "c1047",
+        "user_id": "u6674",
+        "start_date": "2023-06-12",
+        "end_date": "2023-06-16",
+        "duration": "4",
+        "total_price": "2100"
+    },
+    {
+        "id": "r4444",
+        "car_id": "c8826",
+        "user_id": "u5554",
+        "start_date": "2023-06-13",
+        "end_date": "2023-06-16",
+        "duration": "3",
+        "total_price": "2151"
+    },
+    {
+        "id": "r8574",
+        "car_id": "c6149",
+        "user_id": "u2021",
+        "start_date": "2023-05-21",
+        "end_date": "2023-05-28",
+        "duration": "7",
+        "total_price": "3829"
+    },
+    {
+        "id": "r9878",
+        "car_id": "c1452",
+        "user_id": "u5276",
+        "start_date": "2023-12-29",
+        "end_date": "2024-01-03",
+        "duration": "5",
+        "total_price": "4170"
+    },
+    {
+        "id": "r7749",
+        "car_id": "c7963",
+        "user_id": "u4926",
+        "start_date": "2023-10-20",
+        "end_date": "2023-10-25",
+        "duration": "5",
+        "total_price": "2870"
+    },
+    {
+        "id": "r1352",
+        "car_id": "c8551",
+        "user_id": "u9780",
+        "start_date": "2023-10-06",
+        "end_date": "2023-10-10",
+        "duration": "4",
+        "total_price": "1980"
+    },
+    {
+        "id": "r1059",
+        "car_id": "c6854",
+        "user_id": "u2715",
+        "start_date": "2023-10-26",
+        "end_date": "2023-11-02",
+        "duration": "7",
+        "total_price": "6496"
+    },
+    {
+        "id": "r8471",
+        "car_id": "c5830",
+        "user_id": "u7919",
+        "start_date": "2023-10-15",
+        "end_date": "2023-10-19",
+        "duration": "4",
+        "total_price": "2032"
+    },
+    {
+        "id": "r5266",
+        "car_id": "c5222",
+        "user_id": "u8277",
+        "start_date": "2023-12-05",
+        "end_date": "2023-12-10",
+        "duration": "5",
+        "total_price": "3225"
+    },
+    {
+        "id": "r7741",
+        "car_id": "c2216",
+        "user_id": "u2021",
+        "start_date": "2023-08-17",
+        "end_date": "2023-08-20",
+        "duration": "3",
+        "total_price": "2268"
+    },
+    {
+        "id": "r3880",
+        "car_id": "c4665",
+        "user_id": "u5421",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-20",
+        "duration": "1",
+        "total_price": "894"
+    },
+    {
+        "id": "r8490",
+        "car_id": "c4433",
+        "user_id": "u8428",
+        "start_date": "2023-10-08",
+        "end_date": "2023-10-11",
+        "duration": "3",
+        "total_price": "1812"
+    },
+    {
+        "id": "r4491",
+        "car_id": "c8173",
+        "user_id": "u7901",
+        "start_date": "2023-04-08",
+        "end_date": "2023-04-13",
+        "duration": "5",
+        "total_price": "4440"
+    },
+    {
+        "id": "r7475",
+        "car_id": "c3013",
+        "user_id": "u4304",
+        "start_date": "2023-06-27",
+        "end_date": "2023-07-02",
+        "duration": "5",
+        "total_price": "4255"
+    },
+    {
+        "id": "r6957",
+        "car_id": "c7594",
+        "user_id": "u9579",
+        "start_date": "2023-05-28",
+        "end_date": "2023-05-29",
+        "duration": "1",
+        "total_price": "963"
+    },
+    {
+        "id": "r2920",
+        "car_id": "c3420",
+        "user_id": "u9432",
+        "start_date": "2023-01-14",
+        "end_date": "2023-01-16",
+        "duration": "2",
+        "total_price": "1792"
+    },
+    {
+        "id": "r2025",
+        "car_id": "c3308",
+        "user_id": "u4853",
+        "start_date": "2023-02-04",
+        "end_date": "2023-02-09",
+        "duration": "5",
+        "total_price": "3955"
+    },
+    {
+        "id": "r8568",
+        "car_id": "c1651",
+        "user_id": "u5421",
+        "start_date": "2023-09-02",
+        "end_date": "2023-09-08",
+        "duration": "6",
+        "total_price": "4992"
+    },
+    {
+        "id": "r1405",
+        "car_id": "c8528",
+        "user_id": "u4884",
+        "start_date": "2023-07-15",
+        "end_date": "2023-07-20",
+        "duration": "5",
+        "total_price": "3535"
+    },
+    {
+        "id": "r2417",
+        "car_id": "c7884",
+        "user_id": "u8783",
+        "start_date": "2023-11-02",
+        "end_date": "2023-11-06",
+        "duration": "4",
+        "total_price": "2008"
+    },
+    {
+        "id": "r5880",
+        "car_id": "c1924",
+        "user_id": "u9068",
+        "start_date": "2023-01-19",
+        "end_date": "2023-01-22",
+        "duration": "3",
+        "total_price": "2940"
+    },
+    {
+        "id": "r6591",
+        "car_id": "c5288",
+        "user_id": "u5890",
+        "start_date": "2023-04-04",
+        "end_date": "2023-04-10",
+        "duration": "6",
+        "total_price": "4794"
+    },
+    {
+        "id": "r2104",
+        "car_id": "c8778",
+        "user_id": "u3246",
+        "start_date": "2023-12-21",
+        "end_date": "2023-12-27",
+        "duration": "6",
+        "total_price": "3714"
+    },
+    {
+        "id": "r9873",
+        "car_id": "c6476",
+        "user_id": "u7042",
+        "start_date": "2023-01-20",
+        "end_date": "2023-01-21",
+        "duration": "1",
+        "total_price": "576"
+    },
+    {
+        "id": "r3315",
+        "car_id": "c5830",
+        "user_id": "u4853",
+        "start_date": "2023-09-15",
+        "end_date": "2023-09-20",
+        "duration": "5",
+        "total_price": "2540"
+    },
+    {
+        "id": "r1558",
+        "car_id": "c7594",
+        "user_id": "u5472",
+        "start_date": "2023-02-18",
+        "end_date": "2023-02-23",
+        "duration": "5",
+        "total_price": "4815"
+    },
+    {
+        "id": "r4317",
+        "car_id": "c6400",
+        "user_id": "u7590",
+        "start_date": "2023-01-31",
+        "end_date": "2023-02-07",
+        "duration": "7",
+        "total_price": "3514"
+    },
+    {
+        "id": "r9972",
+        "car_id": "c7165",
+        "user_id": "u8087",
+        "start_date": "2023-09-28",
+        "end_date": "2023-10-04",
+        "duration": "6",
+        "total_price": "3024"
+    },
+    {
+        "id": "r6597",
+        "car_id": "c6476",
+        "user_id": "u4000",
+        "start_date": "2023-12-08",
+        "end_date": "2023-12-10",
+        "duration": "2",
+        "total_price": "1152"
+    },
+    {
+        "id": "r4619",
+        "car_id": "c3139",
+        "user_id": "u8668",
+        "start_date": "2023-06-09",
+        "end_date": "2023-06-14",
+        "duration": "5",
+        "total_price": "4980"
+    },
+    {
+        "id": "r4661",
+        "car_id": "c8323",
+        "user_id": "u3513",
+        "start_date": "2023-01-16",
+        "end_date": "2023-01-19",
+        "duration": "3",
+        "total_price": "1551"
+    },
+    {
+        "id": "r3271",
+        "car_id": "c8298",
+        "user_id": "u1225",
+        "start_date": "2023-07-31",
+        "end_date": "2023-08-04",
+        "duration": "4",
+        "total_price": "2468"
+    },
+    {
+        "id": "r1892",
+        "car_id": "c8253",
+        "user_id": "u2366",
+        "start_date": "2023-01-30",
+        "end_date": "2023-02-04",
+        "duration": "5",
+        "total_price": "2880"
+    },
+    {
+        "id": "r3464",
+        "car_id": "c3930",
+        "user_id": "u3705",
+        "start_date": "2023-01-05",
+        "end_date": "2023-01-10",
+        "duration": "5",
+        "total_price": "3600"
+    },
+    {
+        "id": "r7123",
+        "car_id": "c7958",
+        "user_id": "u9078",
+        "start_date": "2023-01-22",
+        "end_date": "2023-01-24",
+        "duration": "2",
+        "total_price": "1230"
+    },
+    {
+        "id": "r6906",
+        "car_id": "c1047",
+        "user_id": "u4760",
+        "start_date": "2023-03-22",
+        "end_date": "2023-03-25",
+        "duration": "3",
+        "total_price": "1575"
+    },
+    {
+        "id": "r1909",
+        "car_id": "c5974",
+        "user_id": "u9828",
+        "start_date": "2023-11-14",
+        "end_date": "2023-11-18",
+        "duration": "4",
+        "total_price": "1664"
+    },
+    {
+        "id": "r7456",
+        "car_id": "c6110",
+        "user_id": "u1134",
+        "start_date": "2023-04-05",
+        "end_date": "2023-04-11",
+        "duration": "6",
+        "total_price": "4752"
+    },
+    {
+        "id": "r6921",
+        "car_id": "c7138",
+        "user_id": "u5951",
+        "start_date": "2023-06-01",
+        "end_date": "2023-06-04",
+        "duration": "3",
+        "total_price": "1983"
+    },
+    {
+        "id": "r4285",
+        "car_id": "c9351",
+        "user_id": "u4397",
+        "start_date": "2023-05-16",
+        "end_date": "2023-05-17",
+        "duration": "1",
+        "total_price": "827"
+    },
+    {
+        "id": "r8344",
+        "car_id": "c6901",
+        "user_id": "u9260",
+        "start_date": "2023-05-25",
+        "end_date": "2023-05-31",
+        "duration": "6",
+        "total_price": "3966"
+    },
+    {
+        "id": "r1984",
+        "car_id": "c7190",
+        "user_id": "u9262",
+        "start_date": "2023-09-02",
+        "end_date": "2023-09-08",
+        "duration": "6",
+        "total_price": "4128"
+    },
+    {
+        "id": "r8624",
+        "car_id": "c6476",
+        "user_id": "u5855",
+        "start_date": "2023-02-24",
+        "end_date": "2023-03-03",
+        "duration": "7",
+        "total_price": "4032"
+    },
+    {
+        "id": "r7451",
+        "car_id": "c7732",
+        "user_id": "u2766",
+        "start_date": "2023-12-21",
+        "end_date": "2023-12-23",
+        "duration": "2",
+        "total_price": "828"
+    },
+    {
+        "id": "r5484",
+        "car_id": "c4286",
+        "user_id": "u7741",
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-07",
+        "duration": "6",
+        "total_price": "4686"
+    },
+    {
+        "id": "r2019",
+        "car_id": "c4286",
+        "user_id": "u6136",
+        "start_date": "2023-10-10",
+        "end_date": "2023-10-12",
+        "duration": "2",
+        "total_price": "1562"
+    },
+    {
+        "id": "r9357",
+        "car_id": "c8044",
+        "user_id": "u1302",
+        "start_date": "2023-01-15",
+        "end_date": "2023-01-18",
+        "duration": "3",
+        "total_price": "1401"
+    },
+    {
+        "id": "r5645",
+        "car_id": "c4396",
+        "user_id": "u8146",
+        "start_date": "2023-02-19",
+        "end_date": "2023-02-21",
+        "duration": "2",
+        "total_price": "894"
+    },
+    {
+        "id": "r4814",
+        "car_id": "c5005",
+        "user_id": "u8693",
+        "start_date": "2023-03-27",
+        "end_date": "2023-03-30",
+        "duration": "3",
+        "total_price": "2736"
+    },
+    {
+        "id": "r2847",
+        "car_id": "c5291",
+        "user_id": "u2187",
+        "start_date": "2023-01-22",
+        "end_date": "2023-01-25",
+        "duration": "3",
+        "total_price": "2148"
+    },
+    {
+        "id": "r4255",
+        "car_id": "c4920",
+        "user_id": "u6242",
+        "start_date": "2023-06-09",
+        "end_date": "2023-06-11",
+        "duration": "2",
+        "total_price": "1538"
+    },
+    {
+        "id": "r2787",
+        "car_id": "c2689",
+        "user_id": "u9559",
+        "start_date": "2023-03-12",
+        "end_date": "2023-03-13",
+        "duration": "1",
+        "total_price": "412"
+    },
+    {
+        "id": "r5127",
+        "car_id": "c8044",
+        "user_id": "u8146",
+        "start_date": "2023-05-30",
+        "end_date": "2023-06-05",
+        "duration": "6",
+        "total_price": "2802"
+    },
+    {
+        "id": "r8909",
+        "car_id": "c8323",
+        "user_id": "u2766",
+        "start_date": "2023-12-28",
+        "end_date": "2024-01-03",
+        "duration": "6",
+        "total_price": "3102"
+    },
+    {
+        "id": "r4050",
+        "car_id": "c6188",
+        "user_id": "u6232",
+        "start_date": "2023-02-15",
+        "end_date": "2023-02-19",
+        "duration": "4",
+        "total_price": "2152"
+    },
+    {
+        "id": "r5605",
+        "car_id": "c4396",
+        "user_id": "u3599",
+        "start_date": "2023-05-08",
+        "end_date": "2023-05-09",
+        "duration": "1",
+        "total_price": "447"
+    },
+    {
+        "id": "r4984",
+        "car_id": "c1388",
+        "user_id": "u6143",
+        "start_date": "2023-01-27",
+        "end_date": "2023-02-02",
+        "duration": "6",
+        "total_price": "5532"
+    },
+    {
+        "id": "r4363",
+        "car_id": "c6644",
+        "user_id": "u9828",
+        "start_date": "2023-04-14",
+        "end_date": "2023-04-15",
+        "duration": "1",
+        "total_price": "530"
+    },
+    {
+        "id": "r2043",
+        "car_id": "c7143",
+        "user_id": "u7655",
+        "start_date": "2023-01-26",
+        "end_date": "2023-01-31",
+        "duration": "5",
+        "total_price": "2645"
+    },
+    {
+        "id": "r6309",
+        "car_id": "c3420",
+        "user_id": "u9640",
+        "start_date": "2023-02-01",
+        "end_date": "2023-02-03",
+        "duration": "2",
+        "total_price": "1792"
+    },
+    {
+        "id": "r6747",
+        "car_id": "c7284",
+        "user_id": "u2430",
+        "start_date": "2023-12-05",
+        "end_date": "2023-12-07",
+        "duration": "2",
+        "total_price": "1384"
+    },
+    {
+        "id": "r8373",
+        "car_id": "c2689",
+        "user_id": "u5526",
+        "start_date": "2023-02-24",
+        "end_date": "2023-02-25",
+        "duration": "1",
+        "total_price": "412"
+    },
+    {
+        "id": "r1345",
+        "car_id": "c8182",
+        "user_id": "u7294",
+        "start_date": "2023-07-28",
+        "end_date": "2023-07-29",
+        "duration": "1",
+        "total_price": "904"
+    },
+    {
+        "id": "r8542",
+        "car_id": "c7414",
+        "user_id": "u3297",
+        "start_date": "2023-07-05",
+        "end_date": "2023-07-07",
+        "duration": "2",
+        "total_price": "1618"
+    },
+    {
+        "id": "r1435",
+        "car_id": "c3308",
+        "user_id": "u9579",
+        "start_date": "2023-02-07",
+        "end_date": "2023-02-13",
+        "duration": "6",
+        "total_price": "4746"
+    },
+    {
+        "id": "r2381",
+        "car_id": "c4920",
+        "user_id": "u3086",
+        "start_date": "2023-12-29",
+        "end_date": "2023-12-30",
+        "duration": "1",
+        "total_price": "769"
+    },
+    {
+        "id": "r8878",
+        "car_id": "c6188",
+        "user_id": "u9579",
+        "start_date": "2023-11-22",
+        "end_date": "2023-11-27",
+        "duration": "5",
+        "total_price": "2690"
+    },
+    {
+        "id": "r5458",
+        "car_id": "c4030",
+        "user_id": "u9082",
+        "start_date": "2023-05-04",
+        "end_date": "2023-05-10",
+        "duration": "6",
+        "total_price": "3918"
+    },
+    {
+        "id": "r7018",
+        "car_id": "c8551",
+        "user_id": "u2530",
+        "start_date": "2023-04-08",
+        "end_date": "2023-04-11",
+        "duration": "3",
+        "total_price": "1485"
+    },
+    {
+        "id": "r5940",
+        "car_id": "c7958",
+        "user_id": "u7608",
+        "start_date": "2023-08-02",
+        "end_date": "2023-08-03",
+        "duration": "1",
+        "total_price": "615"
+    },
+    {
+        "id": "r4709",
+        "car_id": "c5499",
+        "user_id": "u8668",
+        "start_date": "2023-03-06",
+        "end_date": "2023-03-09",
+        "duration": "3",
+        "total_price": "1581"
+    },
+    {
+        "id": "r3852",
+        "car_id": "c6146",
+        "user_id": "u4393",
+        "start_date": "2023-10-24",
+        "end_date": "2023-10-31",
+        "duration": "7",
+        "total_price": "4648"
+    },
+    {
+        "id": "r6617",
+        "car_id": "c1636",
+        "user_id": "u7248",
+        "start_date": "2023-03-22",
+        "end_date": "2023-03-29",
+        "duration": "7",
+        "total_price": "4109"
+    },
+    {
+        "id": "r2167",
+        "car_id": "c4030",
+        "user_id": "u7708",
+        "start_date": "2023-04-12",
+        "end_date": "2023-04-18",
+        "duration": "6",
+        "total_price": "3918"
+    },
+    {
+        "id": "r6014",
+        "car_id": "c2005",
+        "user_id": "u6873",
+        "start_date": "2023-07-04",
+        "end_date": "2023-07-11",
+        "duration": "7",
+        "total_price": "3066"
+    },
+    {
+        "id": "r2880",
+        "car_id": "c2719",
+        "user_id": "u1302",
+        "start_date": "2023-04-11",
+        "end_date": "2023-04-15",
+        "duration": "4",
+        "total_price": "3268"
+    },
+    {
+        "id": "r7416",
+        "car_id": "c4124",
+        "user_id": "u4884",
+        "start_date": "2023-07-19",
+        "end_date": "2023-07-24",
+        "duration": "5",
+        "total_price": "3085"
+    },
+    {
+        "id": "r2695",
+        "car_id": "c6422",
+        "user_id": "u1806",
+        "start_date": "2023-10-29",
+        "end_date": "2023-11-02",
+        "duration": "4",
+        "total_price": "3904"
+    },
+    {
+        "id": "r4282",
+        "car_id": "c3326",
+        "user_id": "u5115",
+        "start_date": "2023-04-29",
+        "end_date": "2023-05-05",
+        "duration": "6",
+        "total_price": "5958"
+    },
+    {
+        "id": "r6878",
+        "car_id": "c8173",
+        "user_id": "u5276",
+        "start_date": "2023-08-30",
+        "end_date": "2023-09-02",
+        "duration": "3",
+        "total_price": "2664"
+    },
+    {
+        "id": "r5325",
+        "car_id": "c6483",
+        "user_id": "u5895",
+        "start_date": "2023-11-21",
+        "end_date": "2023-11-26",
+        "duration": "5",
+        "total_price": "2365"
+    },
+    {
+        "id": "r8269",
+        "car_id": "c1651",
+        "user_id": "u7283",
+        "start_date": "2023-02-27",
+        "end_date": "2023-03-04",
+        "duration": "5",
+        "total_price": "4160"
+    },
+    {
+        "id": "r7492",
+        "car_id": "c8518",
+        "user_id": "u6963",
+        "start_date": "2023-02-27",
+        "end_date": "2023-03-01",
+        "duration": "2",
+        "total_price": "816"
+    },
+    {
+        "id": "r5697",
+        "car_id": "c4665",
+        "user_id": "u3297",
+        "start_date": "2023-08-07",
+        "end_date": "2023-08-09",
+        "duration": "2",
+        "total_price": "1788"
+    },
+    {
+        "id": "r4664",
+        "car_id": "c5222",
+        "user_id": "u2087",
+        "start_date": "2023-09-18",
+        "end_date": "2023-09-24",
+        "duration": "6",
+        "total_price": "3870"
+    },
+    {
+        "id": "r9115",
+        "car_id": "c1342",
+        "user_id": "u7556",
+        "start_date": "2023-04-12",
+        "end_date": "2023-04-17",
+        "duration": "5",
+        "total_price": "4980"
+    },
+    {
+        "id": "r2572",
+        "car_id": "c6979",
+        "user_id": "u2002",
+        "start_date": "2023-09-04",
+        "end_date": "2023-09-11",
+        "duration": "7",
+        "total_price": "3885"
+    },
+    {
+        "id": "r6293",
+        "car_id": "c4920",
+        "user_id": "u3086",
+        "start_date": "2023-12-06",
+        "end_date": "2023-12-10",
+        "duration": "4",
+        "total_price": "3076"
+    },
+    {
+        "id": "r3901",
+        "car_id": "c9989",
+        "user_id": "u6132",
+        "start_date": "2023-12-22",
+        "end_date": "2023-12-26",
+        "duration": "4",
+        "total_price": "3712"
+    },
+    {
+        "id": "r3218",
+        "car_id": "c7013",
+        "user_id": "u1901",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-07",
+        "duration": "6",
+        "total_price": "2400"
+    },
+    {
+        "id": "r8060",
+        "car_id": "c5206",
+        "user_id": "u9215",
+        "start_date": "2023-06-23",
+        "end_date": "2023-06-24",
+        "duration": "1",
+        "total_price": "882"
+    },
+    {
+        "id": "r9657",
+        "car_id": "c5809",
+        "user_id": "u8816",
+        "start_date": "2023-09-07",
+        "end_date": "2023-09-13",
+        "duration": "6",
+        "total_price": "3750"
+    },
+    {
+        "id": "r2973",
+        "car_id": "c1636",
+        "user_id": "u7556",
+        "start_date": "2023-12-18",
+        "end_date": "2023-12-22",
+        "duration": "4",
+        "total_price": "2348"
+    },
+    {
+        "id": "r9052",
+        "car_id": "c1388",
+        "user_id": "u8827",
+        "start_date": "2023-05-06",
+        "end_date": "2023-05-10",
+        "duration": "4",
+        "total_price": "3688"
+    },
+    {
+        "id": "r7383",
+        "car_id": "c3251",
+        "user_id": "u7248",
+        "start_date": "2023-08-26",
+        "end_date": "2023-09-01",
+        "duration": "6",
+        "total_price": "3552"
+    },
+    {
+        "id": "r1743",
+        "car_id": "c7803",
+        "user_id": "u8618",
+        "start_date": "2023-05-11",
+        "end_date": "2023-05-18",
+        "duration": "7",
+        "total_price": "6440"
+    },
+    {
+        "id": "r3570",
+        "car_id": "c7441",
+        "user_id": "u2618",
+        "start_date": "2023-07-14",
+        "end_date": "2023-07-19",
+        "duration": "5",
+        "total_price": "3435"
+    },
+    {
+        "id": "r5865",
+        "car_id": "c5288",
+        "user_id": "u5609",
+        "start_date": "2023-12-10",
+        "end_date": "2023-12-16",
+        "duration": "6",
+        "total_price": "4794"
+    },
+    {
+        "id": "r8690",
+        "car_id": "c7013",
+        "user_id": "u7283",
+        "start_date": "2023-04-08",
+        "end_date": "2023-04-14",
+        "duration": "6",
+        "total_price": "2400"
+    },
+    {
+        "id": "r8584",
+        "car_id": "c2894",
+        "user_id": "u3918",
+        "start_date": "2023-03-08",
+        "end_date": "2023-03-15",
+        "duration": "7",
+        "total_price": "5600"
+    },
+    {
+        "id": "r5498",
+        "car_id": "c6379",
+        "user_id": "u9780",
+        "start_date": "2023-02-08",
+        "end_date": "2023-02-11",
+        "duration": "3",
+        "total_price": "1233"
+    },
+    {
+        "id": "r3562",
+        "car_id": "c2176",
+        "user_id": "u6322",
+        "start_date": "2023-12-26",
+        "end_date": "2023-12-28",
+        "duration": "2",
+        "total_price": "850"
+    },
+    {
+        "id": "r8976",
+        "car_id": "c2689",
+        "user_id": "u7827",
+        "start_date": "2023-01-16",
+        "end_date": "2023-01-17",
+        "duration": "1",
+        "total_price": "412"
+    },
+    {
+        "id": "r1180",
+        "car_id": "c9324",
+        "user_id": "u6857",
+        "start_date": "2023-12-23",
+        "end_date": "2023-12-28",
+        "duration": "5",
+        "total_price": "3625"
+    },
+    {
+        "id": "r4178",
+        "car_id": "c6216",
+        "user_id": "u6136",
+        "start_date": "2023-01-23",
+        "end_date": "2023-01-28",
+        "duration": "5",
+        "total_price": "4025"
+    },
+    {
+        "id": "r1046",
+        "car_id": "c6979",
+        "user_id": "u3470",
+        "start_date": "2023-06-06",
+        "end_date": "2023-06-10",
+        "duration": "4",
+        "total_price": "2220"
+    },
+    {
+        "id": "r3750",
+        "car_id": "c3930",
+        "user_id": "u3335",
+        "start_date": "2023-03-19",
+        "end_date": "2023-03-23",
+        "duration": "4",
+        "total_price": "2880"
+    },
+    {
+        "id": "r3294",
+        "car_id": "c9899",
+        "user_id": "u2084",
+        "start_date": "2023-06-19",
+        "end_date": "2023-06-24",
+        "duration": "5",
+        "total_price": "4785"
+    },
+    {
+        "id": "r6310",
+        "car_id": "c2956",
+        "user_id": "u3079",
+        "start_date": "2023-04-10",
+        "end_date": "2023-04-11",
+        "duration": "1",
+        "total_price": "935"
+    },
+    {
+        "id": "r9424",
+        "car_id": "c3504",
+        "user_id": "u9237",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-23",
+        "duration": "4",
+        "total_price": "1944"
+    },
+    {
+        "id": "r4279",
+        "car_id": "c8820",
+        "user_id": "u1131",
+        "start_date": "2023-02-08",
+        "end_date": "2023-02-11",
+        "duration": "3",
+        "total_price": "1902"
+    },
+    {
+        "id": "r4280",
+        "car_id": "c2988",
+        "user_id": "u7919",
+        "start_date": "2023-01-21",
+        "end_date": "2023-01-22",
+        "duration": "1",
+        "total_price": "801"
+    },
+    {
+        "id": "r2297",
+        "car_id": "c4124",
+        "user_id": "u9110",
+        "start_date": "2023-07-17",
+        "end_date": "2023-07-19",
+        "duration": "2",
+        "total_price": "1234"
+    },
+    {
+        "id": "r2416",
+        "car_id": "c4665",
+        "user_id": "u1377",
+        "start_date": "2023-02-15",
+        "end_date": "2023-02-20",
+        "duration": "5",
+        "total_price": "4470"
+    },
+    {
+        "id": "r2703",
+        "car_id": "c8518",
+        "user_id": "u1225",
+        "start_date": "2023-03-29",
+        "end_date": "2023-04-04",
+        "duration": "6",
+        "total_price": "2448"
+    },
+    {
+        "id": "r7950",
+        "car_id": "c4533",
+        "user_id": "u2809",
+        "start_date": "2023-09-26",
+        "end_date": "2023-09-28",
+        "duration": "2",
+        "total_price": "1058"
+    },
+    {
+        "id": "r7044",
+        "car_id": "c6146",
+        "user_id": "u6609",
+        "start_date": "2023-03-27",
+        "end_date": "2023-04-03",
+        "duration": "7",
+        "total_price": "4648"
+    },
+    {
+        "id": "r4085",
+        "car_id": "c2715",
+        "user_id": "u2165",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-15",
+        "duration": "4",
+        "total_price": "3700"
+    },
+    {
+        "id": "r6107",
+        "car_id": "c7414",
+        "user_id": "u1445",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-14",
+        "duration": "3",
+        "total_price": "2427"
+    },
+    {
+        "id": "r9564",
+        "car_id": "c7284",
+        "user_id": "u1949",
+        "start_date": "2023-07-18",
+        "end_date": "2023-07-24",
+        "duration": "6",
+        "total_price": "4152"
+    },
+    {
+        "id": "r2674",
+        "car_id": "c7803",
+        "user_id": "u6970",
+        "start_date": "2023-02-05",
+        "end_date": "2023-02-10",
+        "duration": "5",
+        "total_price": "4600"
+    },
+    {
+        "id": "r1393",
+        "car_id": "c9900",
+        "user_id": "u2709",
+        "start_date": "2023-09-19",
+        "end_date": "2023-09-25",
+        "duration": "6",
+        "total_price": "5208"
+    },
+    {
+        "id": "r6328",
+        "car_id": "c1452",
+        "user_id": "u9925",
+        "start_date": "2023-06-06",
+        "end_date": "2023-06-08",
+        "duration": "2",
+        "total_price": "1668"
+    },
+    {
+        "id": "r2918",
+        "car_id": "c6153",
+        "user_id": "u9237",
+        "start_date": "2023-08-24",
+        "end_date": "2023-08-31",
+        "duration": "7",
+        "total_price": "4550"
+    },
+    {
+        "id": "r6250",
+        "car_id": "c8371",
+        "user_id": "u2824",
+        "start_date": "2023-11-30",
+        "end_date": "2023-12-07",
+        "duration": "7",
+        "total_price": "5796"
+    },
+    {
+        "id": "r7945",
+        "car_id": "c2804",
+        "user_id": "u3967",
+        "start_date": "2023-06-17",
+        "end_date": "2023-06-22",
+        "duration": "5",
+        "total_price": "3925"
+    },
+    {
+        "id": "r6030",
+        "car_id": "c4817",
+        "user_id": "u9690",
+        "start_date": "2023-05-06",
+        "end_date": "2023-05-07",
+        "duration": "1",
+        "total_price": "440"
+    },
+    {
+        "id": "r1166",
+        "car_id": "c2005",
+        "user_id": "u4200",
+        "start_date": "2023-01-20",
+        "end_date": "2023-01-22",
+        "duration": "2",
+        "total_price": "876"
+    },
+    {
+        "id": "r4773",
+        "car_id": "c8323",
+        "user_id": "u5804",
+        "start_date": "2023-07-02",
+        "end_date": "2023-07-09",
+        "duration": "7",
+        "total_price": "3619"
+    },
+    {
+        "id": "r9349",
+        "car_id": "c6644",
+        "user_id": "u7556",
+        "start_date": "2023-04-03",
+        "end_date": "2023-04-06",
+        "duration": "3",
+        "total_price": "1590"
+    },
+    {
+        "id": "r1284",
+        "car_id": "c8338",
+        "user_id": "u5068",
+        "start_date": "2023-03-18",
+        "end_date": "2023-03-20",
+        "duration": "2",
+        "total_price": "848"
+    },
+    {
+        "id": "r4165",
+        "car_id": "c8298",
+        "user_id": "u6289",
+        "start_date": "2023-01-06",
+        "end_date": "2023-01-13",
+        "duration": "7",
+        "total_price": "4319"
+    },
+    {
+        "id": "r9583",
+        "car_id": "c7283",
+        "user_id": "u9804",
+        "start_date": "2023-04-10",
+        "end_date": "2023-04-13",
+        "duration": "3",
+        "total_price": "1617"
+    },
+    {
+        "id": "r7136",
+        "car_id": "c5974",
+        "user_id": "u7608",
+        "start_date": "2023-01-25",
+        "end_date": "2023-01-28",
+        "duration": "3",
+        "total_price": "1248"
+    },
+    {
+        "id": "r1632",
+        "car_id": "c6146",
+        "user_id": "u2187",
+        "start_date": "2023-12-27",
+        "end_date": "2023-12-31",
+        "duration": "4",
+        "total_price": "2656"
+    },
+    {
+        "id": "r8735",
+        "car_id": "c3707",
+        "user_id": "u5669",
+        "start_date": "2023-04-16",
+        "end_date": "2023-04-22",
+        "duration": "6",
+        "total_price": "4182"
+    },
+    {
+        "id": "r5641",
+        "car_id": "c8379",
+        "user_id": "u9585",
+        "start_date": "2023-06-05",
+        "end_date": "2023-06-12",
+        "duration": "7",
+        "total_price": "6405"
+    },
+    {
+        "id": "r1368",
+        "car_id": "c1300",
+        "user_id": "u7646",
+        "start_date": "2023-01-13",
+        "end_date": "2023-01-15",
+        "duration": "2",
+        "total_price": "1166"
+    },
+    {
+        "id": "r4686",
+        "car_id": "c8820",
+        "user_id": "u2395",
+        "start_date": "2023-05-02",
+        "end_date": "2023-05-08",
+        "duration": "6",
+        "total_price": "3804"
+    },
+    {
+        "id": "r4535",
+        "car_id": "c5809",
+        "user_id": "u4134",
+        "start_date": "2023-02-16",
+        "end_date": "2023-02-22",
+        "duration": "6",
+        "total_price": "3750"
+    },
+    {
+        "id": "r5694",
+        "car_id": "c7414",
+        "user_id": "u1148",
+        "start_date": "2023-09-25",
+        "end_date": "2023-10-01",
+        "duration": "6",
+        "total_price": "4854"
+    },
+    {
+        "id": "r8054",
+        "car_id": "c1708",
+        "user_id": "u4407",
+        "start_date": "2023-06-18",
+        "end_date": "2023-06-23",
+        "duration": "5",
+        "total_price": "3270"
+    },
+    {
+        "id": "r9113",
+        "car_id": "c7333",
+        "user_id": "u3112",
+        "start_date": "2023-03-04",
+        "end_date": "2023-03-09",
+        "duration": "5",
+        "total_price": "2575"
+    },
+    {
+        "id": "r8183",
+        "car_id": "c8820",
+        "user_id": "u9609",
+        "start_date": "2023-10-29",
+        "end_date": "2023-11-05",
+        "duration": "7",
+        "total_price": "4438"
+    },
+    {
+        "id": "r2859",
+        "car_id": "c2145",
+        "user_id": "u5540",
+        "start_date": "2023-03-28",
+        "end_date": "2023-04-04",
+        "duration": "7",
+        "total_price": "6839"
+    },
+    {
+        "id": "r3084",
+        "car_id": "c9503",
+        "user_id": "u6150",
+        "start_date": "2023-08-24",
+        "end_date": "2023-08-31",
+        "duration": "7",
+        "total_price": "6888"
+    },
+    {
+        "id": "r5207",
+        "car_id": "c7724",
+        "user_id": "u1090",
+        "start_date": "2023-07-10",
+        "end_date": "2023-07-15",
+        "duration": "5",
+        "total_price": "4470"
+    },
+    {
+        "id": "r8474",
+        "car_id": "c4132",
+        "user_id": "u4779",
+        "start_date": "2023-09-15",
+        "end_date": "2023-09-20",
+        "duration": "5",
+        "total_price": "4550"
+    },
+    {
+        "id": "r2531",
+        "car_id": "c4244",
+        "user_id": "u5990",
+        "start_date": "2023-01-20",
+        "end_date": "2023-01-24",
+        "duration": "4",
+        "total_price": "1968"
+    },
+    {
+        "id": "r5373",
+        "car_id": "c9150",
+        "user_id": "u2394",
+        "start_date": "2023-11-06",
+        "end_date": "2023-11-10",
+        "duration": "4",
+        "total_price": "2148"
+    },
+    {
+        "id": "r5292",
+        "car_id": "c4806",
+        "user_id": "u4836",
+        "start_date": "2023-09-04",
+        "end_date": "2023-09-06",
+        "duration": "2",
+        "total_price": "1806"
+    },
+    {
+        "id": "r7419",
+        "car_id": "c5327",
+        "user_id": "u7511",
+        "start_date": "2023-05-30",
+        "end_date": "2023-06-06",
+        "duration": "7",
+        "total_price": "4662"
+    },
+    {
+        "id": "r2960",
+        "car_id": "c8182",
+        "user_id": "u2650",
+        "start_date": "2023-01-29",
+        "end_date": "2023-02-05",
+        "duration": "7",
+        "total_price": "6328"
+    },
+    {
+        "id": "r4146",
+        "car_id": "c5917",
+        "user_id": "u6873",
+        "start_date": "2023-03-25",
+        "end_date": "2023-03-29",
+        "duration": "4",
+        "total_price": "2008"
+    },
+    {
+        "id": "r9361",
+        "car_id": "c3013",
+        "user_id": "u2238",
+        "start_date": "2023-12-24",
+        "end_date": "2023-12-30",
+        "duration": "6",
+        "total_price": "5106"
+    },
+    {
+        "id": "r1832",
+        "car_id": "c1039",
+        "user_id": "u8672",
+        "start_date": "2023-12-24",
+        "end_date": "2023-12-29",
+        "duration": "5",
+        "total_price": "3430"
+    },
+    {
+        "id": "r3272",
+        "car_id": "c7724",
+        "user_id": "u8230",
+        "start_date": "2023-03-26",
+        "end_date": "2023-04-02",
+        "duration": "7",
+        "total_price": "6258"
+    },
+    {
+        "id": "r9321",
+        "car_id": "c1924",
+        "user_id": "u9260",
+        "start_date": "2023-12-26",
+        "end_date": "2023-12-30",
+        "duration": "4",
+        "total_price": "3920"
+    },
+    {
+        "id": "r6318",
+        "car_id": "c2276",
+        "user_id": "u4848",
+        "start_date": "2023-07-10",
+        "end_date": "2023-07-11",
+        "duration": "1",
+        "total_price": "485"
+    },
+    {
+        "id": "r2776",
+        "car_id": "c1342",
+        "user_id": "u7092",
+        "start_date": "2023-09-21",
+        "end_date": "2023-09-25",
+        "duration": "4",
+        "total_price": "3984"
+    },
+    {
+        "id": "r2777",
+        "car_id": "c9900",
+        "user_id": "u1593",
+        "start_date": "2023-01-08",
+        "end_date": "2023-01-13",
+        "duration": "5",
+        "total_price": "4340"
+    },
+    {
+        "id": "r5459",
+        "car_id": "c2216",
+        "user_id": "u7869",
+        "start_date": "2023-05-17",
+        "end_date": "2023-05-24",
+        "duration": "7",
+        "total_price": "5292"
+    },
+    {
+        "id": "r6417",
+        "car_id": "c7963",
+        "user_id": "u2021",
+        "start_date": "2023-01-08",
+        "end_date": "2023-01-13",
+        "duration": "5",
+        "total_price": "2870"
+    },
+    {
+        "id": "r8182",
+        "car_id": "c7594",
+        "user_id": "u2230",
+        "start_date": "2023-12-28",
+        "end_date": "2024-01-02",
+        "duration": "5",
+        "total_price": "4815"
+    },
+    {
+        "id": "r3850",
+        "car_id": "c7441",
+        "user_id": "u3881",
+        "start_date": "2023-11-30",
+        "end_date": "2023-12-07",
+        "duration": "7",
+        "total_price": "4809"
+    },
+    {
+        "id": "r2407",
+        "car_id": "c3174",
+        "user_id": "u3120",
+        "start_date": "2023-10-25",
+        "end_date": "2023-10-31",
+        "duration": "6",
+        "total_price": "3438"
+    },
+    {
+        "id": "r9756",
+        "car_id": "c3744",
+        "user_id": "u1572",
+        "start_date": "2023-08-04",
+        "end_date": "2023-08-10",
+        "duration": "6",
+        "total_price": "3246"
+    },
+    {
+        "id": "r5708",
+        "car_id": "c7352",
+        "user_id": "u7646",
+        "start_date": "2023-02-22",
+        "end_date": "2023-02-23",
+        "duration": "1",
+        "total_price": "609"
+    },
+    {
+        "id": "r6598",
+        "car_id": "c5499",
+        "user_id": "u9585",
+        "start_date": "2023-12-18",
+        "end_date": "2023-12-22",
+        "duration": "4",
+        "total_price": "2108"
+    },
+    {
+        "id": "r2750",
+        "car_id": "c8421",
+        "user_id": "u1562",
+        "start_date": "2023-12-03",
+        "end_date": "2023-12-10",
+        "duration": "7",
+        "total_price": "3094"
+    },
+    {
+        "id": "r1687",
+        "car_id": "c5830",
+        "user_id": "u5951",
+        "start_date": "2023-10-27",
+        "end_date": "2023-11-03",
+        "duration": "7",
+        "total_price": "3556"
+    },
+    {
+        "id": "r7678",
+        "car_id": "c6193",
+        "user_id": "u4393",
+        "start_date": "2023-08-28",
+        "end_date": "2023-08-29",
+        "duration": "1",
+        "total_price": "663"
+    },
+    {
+        "id": "r5365",
+        "car_id": "c2616",
+        "user_id": "u9176",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-02",
+        "duration": "1",
+        "total_price": "432"
+    },
+    {
+        "id": "r6211",
+        "car_id": "c2778",
+        "user_id": "u6857",
+        "start_date": "2023-09-19",
+        "end_date": "2023-09-24",
+        "duration": "5",
+        "total_price": "3810"
+    },
+    {
+        "id": "r9812",
+        "car_id": "c4994",
+        "user_id": "u1302",
+        "start_date": "2023-07-18",
+        "end_date": "2023-07-22",
+        "duration": "4",
+        "total_price": "3516"
+    },
+    {
+        "id": "r7798",
+        "car_id": "c6108",
+        "user_id": "u7248",
+        "start_date": "2023-10-27",
+        "end_date": "2023-11-01",
+        "duration": "5",
+        "total_price": "2405"
+    },
+    {
+        "id": "r3153",
+        "car_id": "c5222",
+        "user_id": "u7879",
+        "start_date": "2023-01-16",
+        "end_date": "2023-01-17",
+        "duration": "1",
+        "total_price": "645"
+    },
+    {
+        "id": "r2357",
+        "car_id": "c2166",
+        "user_id": "u3422",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-06",
+        "duration": "5",
+        "total_price": "3565"
+    },
+    {
+        "id": "r8683",
+        "car_id": "c4806",
+        "user_id": "u3246",
+        "start_date": "2023-01-08",
+        "end_date": "2023-01-10",
+        "duration": "2",
+        "total_price": "1806"
+    },
+    {
+        "id": "r4378",
+        "car_id": "c1047",
+        "user_id": "u5472",
+        "start_date": "2023-12-23",
+        "end_date": "2023-12-25",
+        "duration": "2",
+        "total_price": "1050"
+    },
+    {
+        "id": "r2638",
+        "car_id": "c6108",
+        "user_id": "u6524",
+        "start_date": "2023-05-24",
+        "end_date": "2023-05-27",
+        "duration": "3",
+        "total_price": "1443"
+    },
+    {
+        "id": "r6483",
+        "car_id": "c3504",
+        "user_id": "u7405",
+        "start_date": "2023-10-09",
+        "end_date": "2023-10-14",
+        "duration": "5",
+        "total_price": "2430"
+    },
+    {
+        "id": "r4339",
+        "car_id": "c9150",
+        "user_id": "u1445",
+        "start_date": "2023-07-05",
+        "end_date": "2023-07-06",
+        "duration": "1",
+        "total_price": "537"
+    },
+    {
+        "id": "r3339",
+        "car_id": "c7304",
+        "user_id": "u9148",
+        "start_date": "2023-05-09",
+        "end_date": "2023-05-13",
+        "duration": "4",
+        "total_price": "2256"
+    },
+    {
+        "id": "r5216",
+        "car_id": "c3511",
+        "user_id": "u9530",
+        "start_date": "2023-04-11",
+        "end_date": "2023-04-15",
+        "duration": "4",
+        "total_price": "2028"
+    },
+    {
+        "id": "r6629",
+        "car_id": "c1923",
+        "user_id": "u9176",
+        "start_date": "2023-06-24",
+        "end_date": "2023-06-28",
+        "duration": "4",
+        "total_price": "3216"
+    },
+    {
+        "id": "r9538",
+        "car_id": "c9210",
+        "user_id": "u4474",
+        "start_date": "2023-04-07",
+        "end_date": "2023-04-13",
+        "duration": "6",
+        "total_price": "5160"
+    },
+    {
+        "id": "r5151",
+        "car_id": "c1305",
+        "user_id": "u3120",
+        "start_date": "2023-09-09",
+        "end_date": "2023-09-13",
+        "duration": "4",
+        "total_price": "3236"
+    },
+    {
+        "id": "r9860",
+        "car_id": "c7884",
+        "user_id": "u7294",
+        "start_date": "2023-04-30",
+        "end_date": "2023-05-02",
+        "duration": "2",
+        "total_price": "1004"
+    },
+    {
+        "id": "r2173",
+        "car_id": "c2276",
+        "user_id": "u2230",
+        "start_date": "2023-10-28",
+        "end_date": "2023-11-04",
+        "duration": "7",
+        "total_price": "3395"
+    },
+    {
+        "id": "r3385",
+        "car_id": "c4920",
+        "user_id": "u1169",
+        "start_date": "2023-03-06",
+        "end_date": "2023-03-10",
+        "duration": "4",
+        "total_price": "3076"
+    },
+    {
+        "id": "r5507",
+        "car_id": "c6723",
+        "user_id": "u1935",
+        "start_date": "2023-10-09",
+        "end_date": "2023-10-16",
+        "duration": "7",
+        "total_price": "6545"
+    },
+    {
+        "id": "r4023",
+        "car_id": "c5974",
+        "user_id": "u8277",
+        "start_date": "2023-07-27",
+        "end_date": "2023-08-01",
+        "duration": "5",
+        "total_price": "2080"
+    },
+    {
+        "id": "r5262",
+        "car_id": "c2630",
+        "user_id": "u7901",
+        "start_date": "2023-09-16",
+        "end_date": "2023-09-21",
+        "duration": "5",
+        "total_price": "2975"
+    },
+    {
+        "id": "r5191",
+        "car_id": "c8820",
+        "user_id": "u5505",
+        "start_date": "2023-09-23",
+        "end_date": "2023-09-24",
+        "duration": "1",
+        "total_price": "634"
+    },
+    {
+        "id": "r1533",
+        "car_id": "c2532",
+        "user_id": "u9180",
+        "start_date": "2023-12-14",
+        "end_date": "2023-12-17",
+        "duration": "3",
+        "total_price": "2400"
+    },
+    {
+        "id": "r4593",
+        "car_id": "c1204",
+        "user_id": "u6563",
+        "start_date": "2023-07-17",
+        "end_date": "2023-07-23",
+        "duration": "6",
+        "total_price": "5892"
+    },
+    {
+        "id": "r4830",
+        "car_id": "c3078",
+        "user_id": "u1922",
+        "start_date": "2023-05-02",
+        "end_date": "2023-05-08",
+        "duration": "6",
+        "total_price": "2448"
+    },
+    {
+        "id": "r4420",
+        "car_id": "c2410",
+        "user_id": "u6857",
+        "start_date": "2023-08-03",
+        "end_date": "2023-08-10",
+        "duration": "7",
+        "total_price": "3024"
+    },
+    {
+        "id": "r3891",
+        "car_id": "c7803",
+        "user_id": "u4498",
+        "start_date": "2023-03-11",
+        "end_date": "2023-03-17",
+        "duration": "6",
+        "total_price": "5520"
+    },
+    {
+        "id": "r4213",
+        "car_id": "c3174",
+        "user_id": "u9782",
+        "start_date": "2023-07-15",
+        "end_date": "2023-07-18",
+        "duration": "3",
+        "total_price": "1719"
+    },
+    {
+        "id": "r6998",
+        "car_id": "c5125",
+        "user_id": "u2127",
+        "start_date": "2023-10-13",
+        "end_date": "2023-10-15",
+        "duration": "2",
+        "total_price": "1614"
+    },
+    {
+        "id": "r1647",
+        "car_id": "c7521",
+        "user_id": "u2263",
+        "start_date": "2023-02-28",
+        "end_date": "2023-03-04",
+        "duration": "4",
+        "total_price": "1852"
+    },
+    {
+        "id": "r7067",
+        "car_id": "c6146",
+        "user_id": "u9690",
+        "start_date": "2023-06-17",
+        "end_date": "2023-06-18",
+        "duration": "1",
+        "total_price": "664"
+    },
+    {
+        "id": "r4303",
+        "car_id": "c2630",
+        "user_id": "u1922",
+        "start_date": "2023-02-09",
+        "end_date": "2023-02-16",
+        "duration": "7",
+        "total_price": "4165"
+    },
+    {
+        "id": "r4265",
+        "car_id": "c8270",
+        "user_id": "u5981",
+        "start_date": "2023-05-12",
+        "end_date": "2023-05-15",
+        "duration": "3",
+        "total_price": "2397"
+    },
+    {
+        "id": "r1985",
+        "car_id": "c5029",
+        "user_id": "u5981",
+        "start_date": "2023-06-08",
+        "end_date": "2023-06-10",
+        "duration": "2",
+        "total_price": "1444"
+    },
+    {
+        "id": "r8147",
+        "car_id": "c2988",
+        "user_id": "u4758",
+        "start_date": "2023-12-29",
+        "end_date": "2024-01-04",
+        "duration": "6",
+        "total_price": "4806"
+    },
+    {
+        "id": "r9311",
+        "car_id": "c2410",
+        "user_id": "u7919",
+        "start_date": "2023-10-11",
+        "end_date": "2023-10-17",
+        "duration": "6",
+        "total_price": "2592"
+    },
+    {
+        "id": "r1968",
+        "car_id": "c2145",
+        "user_id": "u7708",
+        "start_date": "2023-06-09",
+        "end_date": "2023-06-12",
+        "duration": "3",
+        "total_price": "2931"
+    },
+    {
+        "id": "r8421",
+        "car_id": "c7414",
+        "user_id": "u8122",
+        "start_date": "2023-12-16",
+        "end_date": "2023-12-20",
+        "duration": "4",
+        "total_price": "3236"
+    },
+    {
+        "id": "r5240",
+        "car_id": "c3078",
+        "user_id": "u5977",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-12",
+        "duration": "1",
+        "total_price": "408"
+    },
+    {
+        "id": "r2222",
+        "car_id": "c4694",
+        "user_id": "u6963",
+        "start_date": "2023-05-16",
+        "end_date": "2023-05-22",
+        "duration": "6",
+        "total_price": "4038"
+    },
+    {
+        "id": "r4970",
+        "car_id": "c8826",
+        "user_id": "u9640",
+        "start_date": "2023-07-05",
+        "end_date": "2023-07-06",
+        "duration": "1",
+        "total_price": "717"
+    },
+    {
+        "id": "r4955",
+        "car_id": "c9210",
+        "user_id": "u7092",
+        "start_date": "2023-10-14",
+        "end_date": "2023-10-16",
+        "duration": "2",
+        "total_price": "1720"
+    },
+    {
+        "id": "r6516",
+        "car_id": "c3078",
+        "user_id": "u5526",
+        "start_date": "2023-11-29",
+        "end_date": "2023-12-03",
+        "duration": "4",
+        "total_price": "1632"
+    },
+    {
+        "id": "r9418",
+        "car_id": "c3946",
+        "user_id": "u5231",
+        "start_date": "2023-07-25",
+        "end_date": "2023-08-01",
+        "duration": "7",
+        "total_price": "3409"
+    },
+    {
+        "id": "r1099",
+        "car_id": "c7143",
+        "user_id": "u6524",
+        "start_date": "2023-02-09",
+        "end_date": "2023-02-15",
+        "duration": "6",
+        "total_price": "3174"
+    },
+    {
+        "id": "r8575",
+        "car_id": "c4665",
+        "user_id": "u1922",
+        "start_date": "2023-11-27",
+        "end_date": "2023-12-01",
+        "duration": "4",
+        "total_price": "3576"
+    },
+    {
+        "id": "r8571",
+        "car_id": "c7190",
+        "user_id": "u5708",
+        "start_date": "2023-01-25",
+        "end_date": "2023-02-01",
+        "duration": "7",
+        "total_price": "4816"
+    },
+    {
+        "id": "r6535",
+        "car_id": "c7352",
+        "user_id": "u6731",
+        "start_date": "2023-10-27",
+        "end_date": "2023-10-30",
+        "duration": "3",
+        "total_price": "1827"
+    },
+    {
+        "id": "r5759",
+        "car_id": "c7832",
+        "user_id": "u7717",
+        "start_date": "2023-12-16",
+        "end_date": "2023-12-22",
+        "duration": "6",
+        "total_price": "4086"
+    },
+    {
+        "id": "r8856",
+        "car_id": "c8617",
+        "user_id": "u4000",
+        "start_date": "2023-04-09",
+        "end_date": "2023-04-11",
+        "duration": "2",
+        "total_price": "1992"
+    },
+    {
+        "id": "r5035",
+        "car_id": "c8323",
+        "user_id": "u1935",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-16",
+        "duration": "5",
+        "total_price": "2585"
+    },
+    {
+        "id": "r1012",
+        "car_id": "c2979",
+        "user_id": "u4079",
+        "start_date": "2023-05-02",
+        "end_date": "2023-05-07",
+        "duration": "5",
+        "total_price": "3830"
+    },
+    {
+        "id": "r1745",
+        "car_id": "c7594",
+        "user_id": "u7741",
+        "start_date": "2023-10-26",
+        "end_date": "2023-11-01",
+        "duration": "6",
+        "total_price": "5778"
+    },
+    {
+        "id": "r2825",
+        "car_id": "c1636",
+        "user_id": "u4779",
+        "start_date": "2023-08-11",
+        "end_date": "2023-08-14",
+        "duration": "3",
+        "total_price": "1761"
+    },
+    {
+        "id": "r6695",
+        "car_id": "c4806",
+        "user_id": "u8164",
+        "start_date": "2023-10-09",
+        "end_date": "2023-10-10",
+        "duration": "1",
+        "total_price": "903"
+    },
+    {
+        "id": "r6445",
+        "car_id": "c1596",
+        "user_id": "u6619",
+        "start_date": "2023-05-12",
+        "end_date": "2023-05-17",
+        "duration": "5",
+        "total_price": "3775"
+    },
+    {
+        "id": "r3791",
+        "car_id": "c8551",
+        "user_id": "u1307",
+        "start_date": "2023-08-18",
+        "end_date": "2023-08-22",
+        "duration": "4",
+        "total_price": "1980"
+    },
+    {
+        "id": "r6802",
+        "car_id": "c7724",
+        "user_id": "u4926",
+        "start_date": "2023-06-20",
+        "end_date": "2023-06-23",
+        "duration": "3",
+        "total_price": "2682"
+    },
+    {
+        "id": "r7795",
+        "car_id": "c7333",
+        "user_id": "u3918",
+        "start_date": "2023-02-10",
+        "end_date": "2023-02-11",
+        "duration": "1",
+        "total_price": "515"
+    },
+    {
+        "id": "r8045",
+        "car_id": "c7333",
+        "user_id": "u1562",
+        "start_date": "2023-02-03",
+        "end_date": "2023-02-10",
+        "duration": "7",
+        "total_price": "3605"
+    },
+    {
+        "id": "r9570",
+        "car_id": "c4994",
+        "user_id": "u7003",
+        "start_date": "2023-03-09",
+        "end_date": "2023-03-10",
+        "duration": "1",
+        "total_price": "879"
+    },
+    {
+        "id": "r3856",
+        "car_id": "c9323",
+        "user_id": "u2526",
+        "start_date": "2023-09-17",
+        "end_date": "2023-09-18",
+        "duration": "1",
+        "total_price": "882"
+    },
+    {
+        "id": "r2118",
+        "car_id": "c6336",
+        "user_id": "u7042",
+        "start_date": "2023-02-12",
+        "end_date": "2023-02-19",
+        "duration": "7",
+        "total_price": "5789"
+    },
+    {
+        "id": "r4168",
+        "car_id": "c9050",
+        "user_id": "u8827",
+        "start_date": "2023-01-19",
+        "end_date": "2023-01-24",
+        "duration": "5",
+        "total_price": "4370"
+    },
+    {
+        "id": "r4015",
+        "car_id": "c2276",
+        "user_id": "u9530",
+        "start_date": "2023-10-09",
+        "end_date": "2023-10-14",
+        "duration": "5",
+        "total_price": "2425"
+    },
+    {
+        "id": "r8349",
+        "car_id": "c7013",
+        "user_id": "u1935",
+        "start_date": "2023-08-27",
+        "end_date": "2023-09-03",
+        "duration": "7",
+        "total_price": "2800"
+    },
+    {
+        "id": "r6244",
+        "car_id": "c7013",
+        "user_id": "u5793",
+        "start_date": "2023-05-15",
+        "end_date": "2023-05-21",
+        "duration": "6",
+        "total_price": "2400"
+    },
+    {
+        "id": "r2888",
+        "car_id": "c7724",
+        "user_id": "u3513",
+        "start_date": "2023-12-06",
+        "end_date": "2023-12-07",
+        "duration": "1",
+        "total_price": "894"
+    },
+    {
+        "id": "r6303",
+        "car_id": "c5508",
+        "user_id": "u2715",
+        "start_date": "2023-03-11",
+        "end_date": "2023-03-12",
+        "duration": "1",
+        "total_price": "992"
+    },
+    {
+        "id": "r8109",
+        "car_id": "c4597",
+        "user_id": "u3865",
+        "start_date": "2023-06-26",
+        "end_date": "2023-06-30",
+        "duration": "4",
+        "total_price": "1792"
+    },
+    {
+        "id": "r8823",
+        "car_id": "c2522",
+        "user_id": "u5773",
+        "start_date": "2023-06-16",
+        "end_date": "2023-06-19",
+        "duration": "3",
+        "total_price": "1623"
+    },
+    {
+        "id": "r2213",
+        "car_id": "c7732",
+        "user_id": "u7328",
+        "start_date": "2023-09-01",
+        "end_date": "2023-09-08",
+        "duration": "7",
+        "total_price": "2898"
+    },
+    {
+        "id": "r2451",
+        "car_id": "c9899",
+        "user_id": "u6850",
+        "start_date": "2023-11-03",
+        "end_date": "2023-11-04",
+        "duration": "1",
+        "total_price": "957"
+    },
+    {
+        "id": "r5486",
+        "car_id": "c5504",
+        "user_id": "u7435",
+        "start_date": "2023-12-16",
+        "end_date": "2023-12-17",
+        "duration": "1",
+        "total_price": "850"
+    },
+    {
+        "id": "r3054",
+        "car_id": "c6820",
+        "user_id": "u5062",
+        "start_date": "2023-03-10",
+        "end_date": "2023-03-11",
+        "duration": "1",
+        "total_price": "599"
+    },
+    {
+        "id": "r3327",
+        "car_id": "c6854",
+        "user_id": "u2125",
+        "start_date": "2023-01-27",
+        "end_date": "2023-01-28",
+        "duration": "1",
+        "total_price": "928"
+    },
+    {
+        "id": "r1278",
+        "car_id": "c1039",
+        "user_id": "u4853",
+        "start_date": "2023-07-05",
+        "end_date": "2023-07-10",
+        "duration": "5",
+        "total_price": "3430"
+    },
+    {
+        "id": "r5603",
+        "car_id": "c8379",
+        "user_id": "u5205",
+        "start_date": "2023-04-10",
+        "end_date": "2023-04-13",
+        "duration": "3",
+        "total_price": "2745"
+    },
+    {
+        "id": "r5446",
+        "car_id": "c8371",
+        "user_id": "u9559",
+        "start_date": "2023-10-13",
+        "end_date": "2023-10-16",
+        "duration": "3",
+        "total_price": "2484"
+    },
+    {
+        "id": "r7670",
+        "car_id": "c1138",
+        "user_id": "u7092",
+        "start_date": "2023-05-21",
+        "end_date": "2023-05-26",
+        "duration": "5",
+        "total_price": "2805"
+    },
+    {
+        "id": "r3655",
+        "car_id": "c3501",
+        "user_id": "u1842",
+        "start_date": "2023-03-20",
+        "end_date": "2023-03-26",
+        "duration": "6",
+        "total_price": "5664"
+    },
+    {
+        "id": "r8000",
+        "car_id": "c6146",
+        "user_id": "u4565",
+        "start_date": "2023-03-31",
+        "end_date": "2023-04-04",
+        "duration": "4",
+        "total_price": "2656"
+    },
+    {
+        "id": "r7494",
+        "car_id": "c5504",
+        "user_id": "u3323",
+        "start_date": "2023-01-27",
+        "end_date": "2023-01-31",
+        "duration": "4",
+        "total_price": "3400"
+    },
+    {
+        "id": "r1934",
+        "car_id": "c8338",
+        "user_id": "u1307",
+        "start_date": "2023-07-07",
+        "end_date": "2023-07-10",
+        "duration": "3",
+        "total_price": "1272"
+    },
+    {
+        "id": "r2738",
+        "car_id": "c9111",
+        "user_id": "u3288",
+        "start_date": "2023-04-10",
+        "end_date": "2023-04-11",
+        "duration": "1",
+        "total_price": "671"
+    },
+    {
+        "id": "r1132",
+        "car_id": "c7884",
+        "user_id": "u8164",
+        "start_date": "2023-10-20",
+        "end_date": "2023-10-24",
+        "duration": "4",
+        "total_price": "2008"
+    },
+    {
+        "id": "r6663",
+        "car_id": "c2276",
+        "user_id": "u7323",
+        "start_date": "2023-10-30",
+        "end_date": "2023-11-02",
+        "duration": "3",
+        "total_price": "1455"
+    },
+    {
+        "id": "r9356",
+        "car_id": "c1726",
+        "user_id": "u3288",
+        "start_date": "2023-04-23",
+        "end_date": "2023-04-25",
+        "duration": "2",
+        "total_price": "1250"
+    },
+    {
+        "id": "r4211",
+        "car_id": "c3226",
+        "user_id": "u7037",
+        "start_date": "2023-07-11",
+        "end_date": "2023-07-14",
+        "duration": "3",
+        "total_price": "1653"
+    },
+    {
+        "id": "r8512",
+        "car_id": "c7013",
+        "user_id": "u6524",
+        "start_date": "2023-04-17",
+        "end_date": "2023-04-19",
+        "duration": "2",
+        "total_price": "800"
+    },
+    {
+        "id": "r5519",
+        "car_id": "c9503",
+        "user_id": "u4474",
+        "start_date": "2023-04-26",
+        "end_date": "2023-05-01",
+        "duration": "5",
+        "total_price": "4920"
+    },
+    {
+        "id": "r5824",
+        "car_id": "c1452",
+        "user_id": "u5953",
+        "start_date": "2023-08-20",
+        "end_date": "2023-08-23",
+        "duration": "3",
+        "total_price": "2502"
+    },
+    {
+        "id": "r1818",
+        "car_id": "c3226",
+        "user_id": "u9357",
+        "start_date": "2023-02-21",
+        "end_date": "2023-02-28",
+        "duration": "7",
+        "total_price": "3857"
+    },
+    {
+        "id": "r4865",
+        "car_id": "c6193",
+        "user_id": "u5554",
+        "start_date": "2023-06-22",
+        "end_date": "2023-06-23",
+        "duration": "1",
+        "total_price": "663"
+    },
+    {
+        "id": "r9181",
+        "car_id": "c2522",
+        "user_id": "u4401",
+        "start_date": "2023-11-26",
+        "end_date": "2023-12-02",
+        "duration": "6",
+        "total_price": "3246"
+    },
+    {
+        "id": "r6224",
+        "car_id": "c7333",
+        "user_id": "u1223",
+        "start_date": "2023-07-05",
+        "end_date": "2023-07-10",
+        "duration": "5",
+        "total_price": "2575"
+    },
+    {
+        "id": "r3164",
+        "car_id": "c1708",
+        "user_id": "u5766",
+        "start_date": "2023-02-10",
+        "end_date": "2023-02-16",
+        "duration": "6",
+        "total_price": "3924"
+    },
+    {
+        "id": "r8592",
+        "car_id": "c3946",
+        "user_id": "u4030",
+        "start_date": "2023-11-21",
+        "end_date": "2023-11-25",
+        "duration": "4",
+        "total_price": "1948"
+    },
+    {
+        "id": "r5487",
+        "car_id": "c8298",
+        "user_id": "u1776",
+        "start_date": "2023-02-19",
+        "end_date": "2023-02-25",
+        "duration": "6",
+        "total_price": "3702"
+    },
+    {
+        "id": "r4543",
+        "car_id": "c6108",
+        "user_id": "u2263",
+        "start_date": "2023-06-13",
+        "end_date": "2023-06-17",
+        "duration": "4",
+        "total_price": "1924"
+    },
+    {
+        "id": "r7354",
+        "car_id": "c5917",
+        "user_id": "u7935",
+        "start_date": "2023-12-02",
+        "end_date": "2023-12-05",
+        "duration": "3",
+        "total_price": "1506"
+    },
+    {
+        "id": "r3138",
+        "car_id": "c7884",
+        "user_id": "u7405",
+        "start_date": "2023-12-11",
+        "end_date": "2023-12-18",
+        "duration": "7",
+        "total_price": "3514"
+    },
+    {
+        "id": "r9002",
+        "car_id": "c7958",
+        "user_id": "u8518",
+        "start_date": "2023-02-05",
+        "end_date": "2023-02-12",
+        "duration": "7",
+        "total_price": "4305"
+    },
+    {
+        "id": "r5134",
+        "car_id": "c7352",
+        "user_id": "u5609",
+        "start_date": "2023-03-27",
+        "end_date": "2023-03-29",
+        "duration": "2",
+        "total_price": "1218"
+    },
+    {
+        "id": "r6176",
+        "car_id": "c9989",
+        "user_id": "u9699",
+        "start_date": "2023-06-30",
+        "end_date": "2023-07-06",
+        "duration": "6",
+        "total_price": "5568"
+    },
+    {
+        "id": "r6520",
+        "car_id": "c8617",
+        "user_id": "u2277",
+        "start_date": "2023-03-02",
+        "end_date": "2023-03-07",
+        "duration": "5",
+        "total_price": "4980"
+    },
+    {
+        "id": "r1721",
+        "car_id": "c6336",
+        "user_id": "u7037",
+        "start_date": "2023-10-14",
+        "end_date": "2023-10-16",
+        "duration": "2",
+        "total_price": "1654"
+    },
+    {
+        "id": "r6857",
+        "car_id": "c2145",
+        "user_id": "u2541",
+        "start_date": "2023-12-26",
+        "end_date": "2023-12-31",
+        "duration": "5",
+        "total_price": "4885"
+    },
+    {
+        "id": "r6135",
+        "car_id": "c2630",
+        "user_id": "u1090",
+        "start_date": "2023-10-09",
+        "end_date": "2023-10-11",
+        "duration": "2",
+        "total_price": "1190"
+    },
+    {
+        "id": "r4504",
+        "car_id": "c1452",
+        "user_id": "u2367",
+        "start_date": "2023-06-07",
+        "end_date": "2023-06-08",
+        "duration": "1",
+        "total_price": "834"
+    },
+    {
+        "id": "r1157",
+        "car_id": "c2616",
+        "user_id": "u4609",
+        "start_date": "2023-02-20",
+        "end_date": "2023-02-27",
+        "duration": "7",
+        "total_price": "3024"
+    },
+    {
+        "id": "r3254",
+        "car_id": "c7732",
+        "user_id": "u1458",
+        "start_date": "2023-01-03",
+        "end_date": "2023-01-06",
+        "duration": "3",
+        "total_price": "1242"
+    },
+    {
+        "id": "r4047",
+        "car_id": "c6146",
+        "user_id": "u5062",
+        "start_date": "2023-10-03",
+        "end_date": "2023-10-09",
+        "duration": "6",
+        "total_price": "3984"
+    },
+    {
+        "id": "r1683",
+        "car_id": "c1708",
+        "user_id": "u9262",
+        "start_date": "2023-07-02",
+        "end_date": "2023-07-04",
+        "duration": "2",
+        "total_price": "1308"
+    },
+    {
+        "id": "r7418",
+        "car_id": "c4817",
+        "user_id": "u5069",
+        "start_date": "2023-07-04",
+        "end_date": "2023-07-07",
+        "duration": "3",
+        "total_price": "1320"
+    },
+    {
+        "id": "r9481",
+        "car_id": "c4125",
+        "user_id": "u8671",
+        "start_date": "2023-12-01",
+        "end_date": "2023-12-03",
+        "duration": "2",
+        "total_price": "1592"
+    },
+    {
+        "id": "r1855",
+        "car_id": "c1596",
+        "user_id": "u1776",
+        "start_date": "2023-05-17",
+        "end_date": "2023-05-19",
+        "duration": "2",
+        "total_price": "1510"
+    },
+    {
+        "id": "r5990",
+        "car_id": "c3707",
+        "user_id": "u2937",
+        "start_date": "2023-06-22",
+        "end_date": "2023-06-28",
+        "duration": "6",
+        "total_price": "4182"
+    },
+    {
+        "id": "r2836",
+        "car_id": "c4994",
+        "user_id": "u6399",
+        "start_date": "2023-01-13",
+        "end_date": "2023-01-14",
+        "duration": "1",
+        "total_price": "879"
+    },
+    {
+        "id": "r2014",
+        "car_id": "c2618",
+        "user_id": "u7294",
+        "start_date": "2023-02-28",
+        "end_date": "2023-03-04",
+        "duration": "4",
+        "total_price": "2540"
+    },
+    {
+        "id": "r2112",
+        "car_id": "c8379",
+        "user_id": "u7201",
+        "start_date": "2023-06-02",
+        "end_date": "2023-06-05",
+        "duration": "3",
+        "total_price": "2745"
+    },
+    {
+        "id": "r5608",
+        "car_id": "c9229",
+        "user_id": "u2277",
+        "start_date": "2023-07-13",
+        "end_date": "2023-07-14",
+        "duration": "1",
+        "total_price": "743"
+    },
+    {
+        "id": "r1364",
+        "car_id": "c2988",
+        "user_id": "u1776",
+        "start_date": "2023-03-30",
+        "end_date": "2023-04-01",
+        "duration": "2",
+        "total_price": "1602"
+    },
+    {
+        "id": "r7713",
+        "car_id": "c3251",
+        "user_id": "u5902",
+        "start_date": "2023-12-26",
+        "end_date": "2023-12-28",
+        "duration": "2",
+        "total_price": "1184"
+    },
+    {
+        "id": "r6685",
+        "car_id": "c3334",
+        "user_id": "u5766",
+        "start_date": "2023-12-28",
+        "end_date": "2024-01-02",
+        "duration": "5",
+        "total_price": "2590"
+    },
+    {
+        "id": "r9491",
+        "car_id": "c8551",
+        "user_id": "u9828",
+        "start_date": "2023-01-02",
+        "end_date": "2023-01-09",
+        "duration": "7",
+        "total_price": "3465"
+    },
+    {
+        "id": "r8425",
+        "car_id": "c2778",
+        "user_id": "u3731",
+        "start_date": "2023-10-07",
+        "end_date": "2023-10-14",
+        "duration": "7",
+        "total_price": "5334"
+    },
+    {
+        "id": "r3295",
+        "car_id": "c7423",
+        "user_id": "u6015",
+        "start_date": "2023-08-02",
+        "end_date": "2023-08-06",
+        "duration": "4",
+        "total_price": "2176"
+    },
+    {
+        "id": "r5545",
+        "car_id": "c3334",
+        "user_id": "u5276",
+        "start_date": "2023-01-18",
+        "end_date": "2023-01-23",
+        "duration": "5",
+        "total_price": "2590"
+    },
+    {
+        "id": "r7391",
+        "car_id": "c3226",
+        "user_id": "u5768",
+        "start_date": "2023-05-18",
+        "end_date": "2023-05-21",
+        "duration": "3",
+        "total_price": "1653"
+    },
+    {
+        "id": "r7491",
+        "car_id": "c8044",
+        "user_id": "u4420",
+        "start_date": "2023-12-20",
+        "end_date": "2023-12-21",
+        "duration": "1",
+        "total_price": "467"
+    },
+    {
+        "id": "r6712",
+        "car_id": "c7165",
+        "user_id": "u3513",
+        "start_date": "2023-04-08",
+        "end_date": "2023-04-15",
+        "duration": "7",
+        "total_price": "3528"
+    },
+    {
+        "id": "r5793",
+        "car_id": "c7138",
+        "user_id": "u7328",
+        "start_date": "2023-03-01",
+        "end_date": "2023-03-02",
+        "duration": "1",
+        "total_price": "661"
+    },
+    {
+        "id": "r8986",
+        "car_id": "c2813",
+        "user_id": "u6322",
+        "start_date": "2023-08-07",
+        "end_date": "2023-08-08",
+        "duration": "1",
+        "total_price": "659"
+    },
+    {
+        "id": "r9814",
+        "car_id": "c4817",
+        "user_id": "u8148",
+        "start_date": "2023-07-22",
+        "end_date": "2023-07-23",
+        "duration": "1",
+        "total_price": "440"
+    },
+    {
+        "id": "r1535",
+        "car_id": "c8826",
+        "user_id": "u7655",
+        "start_date": "2023-11-13",
+        "end_date": "2023-11-18",
+        "duration": "5",
+        "total_price": "3585"
+    },
+    {
+        "id": "r5730",
+        "car_id": "c4920",
+        "user_id": "u7741",
+        "start_date": "2023-04-15",
+        "end_date": "2023-04-17",
+        "duration": "2",
+        "total_price": "1538"
+    },
+    {
+        "id": "r6666",
+        "car_id": "c6422",
+        "user_id": "u7435",
+        "start_date": "2023-06-22",
+        "end_date": "2023-06-27",
+        "duration": "5",
+        "total_price": "4880"
+    },
+    {
+        "id": "r9566",
+        "car_id": "c2145",
+        "user_id": "u9780",
+        "start_date": "2023-12-23",
+        "end_date": "2023-12-24",
+        "duration": "1",
+        "total_price": "977"
+    },
+    {
+        "id": "r2932",
+        "car_id": "c2894",
+        "user_id": "u9050",
+        "start_date": "2023-02-02",
+        "end_date": "2023-02-04",
+        "duration": "2",
+        "total_price": "1600"
+    },
+    {
+        "id": "r7365",
+        "car_id": "c6167",
+        "user_id": "u9180",
+        "start_date": "2023-03-25",
+        "end_date": "2023-03-26",
+        "duration": "1",
+        "total_price": "693"
+    },
+    {
+        "id": "r3759",
+        "car_id": "c4132",
+        "user_id": "u4483",
+        "start_date": "2023-10-22",
+        "end_date": "2023-10-25",
+        "duration": "3",
+        "total_price": "2730"
+    },
+    {
+        "id": "r2234",
+        "car_id": "c1300",
+        "user_id": "u2775",
+        "start_date": "2023-07-14",
+        "end_date": "2023-07-17",
+        "duration": "3",
+        "total_price": "1749"
+    },
+    {
+        "id": "r2731",
+        "car_id": "c5732",
+        "user_id": "u1593",
+        "start_date": "2023-04-21",
+        "end_date": "2023-04-27",
+        "duration": "6",
+        "total_price": "3912"
+    },
+    {
+        "id": "r4471",
+        "car_id": "c2630",
+        "user_id": "u3530",
+        "start_date": "2023-12-16",
+        "end_date": "2023-12-21",
+        "duration": "5",
+        "total_price": "2975"
+    },
+    {
+        "id": "r5460",
+        "car_id": "c8826",
+        "user_id": "u2925",
+        "start_date": "2023-08-09",
+        "end_date": "2023-08-15",
+        "duration": "6",
+        "total_price": "4302"
+    },
+    {
+        "id": "r8374",
+        "car_id": "c6723",
+        "user_id": "u8783",
+        "start_date": "2023-01-16",
+        "end_date": "2023-01-22",
+        "duration": "6",
+        "total_price": "5610"
+    },
+    {
+        "id": "r4343",
+        "car_id": "c4920",
+        "user_id": "u1949",
+        "start_date": "2023-01-20",
+        "end_date": "2023-01-24",
+        "duration": "4",
+        "total_price": "3076"
+    },
+    {
+        "id": "r3426",
+        "car_id": "c3174",
+        "user_id": "u7604",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-24",
+        "duration": "5",
+        "total_price": "2865"
+    },
+    {
+        "id": "r7850",
+        "car_id": "c6188",
+        "user_id": "u9699",
+        "start_date": "2023-02-01",
+        "end_date": "2023-02-02",
+        "duration": "1",
+        "total_price": "538"
+    },
+    {
+        "id": "r7151",
+        "car_id": "c2956",
+        "user_id": "u1562",
+        "start_date": "2023-11-29",
+        "end_date": "2023-12-05",
+        "duration": "6",
+        "total_price": "5610"
+    },
+    {
+        "id": "r8871",
+        "car_id": "c3078",
+        "user_id": "u9843",
+        "start_date": "2023-04-21",
+        "end_date": "2023-04-24",
+        "duration": "3",
+        "total_price": "1224"
+    },
+    {
+        "id": "r2376",
+        "car_id": "c2956",
+        "user_id": "u9150",
+        "start_date": "2023-08-13",
+        "end_date": "2023-08-20",
+        "duration": "7",
+        "total_price": "6545"
+    },
+    {
+        "id": "r9507",
+        "car_id": "c8270",
+        "user_id": "u7608",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-16",
+        "duration": "5",
+        "total_price": "3995"
+    },
+    {
+        "id": "r6108",
+        "car_id": "c9508",
+        "user_id": "u2126",
+        "start_date": "2023-09-01",
+        "end_date": "2023-09-02",
+        "duration": "1",
+        "total_price": "805"
+    },
+    {
+        "id": "r3861",
+        "car_id": "c4068",
+        "user_id": "u7248",
+        "start_date": "2023-11-27",
+        "end_date": "2023-12-04",
+        "duration": "7",
+        "total_price": "6258"
+    },
+    {
+        "id": "r9089",
+        "car_id": "c5184",
+        "user_id": "u3891",
+        "start_date": "2023-05-09",
+        "end_date": "2023-05-15",
+        "duration": "6",
+        "total_price": "5184"
+    },
+    {
+        "id": "r2607",
+        "car_id": "c1342",
+        "user_id": "u6169",
+        "start_date": "2023-04-05",
+        "end_date": "2023-04-06",
+        "duration": "1",
+        "total_price": "996"
+    },
+    {
+        "id": "r9294",
+        "car_id": "c3013",
+        "user_id": "u9371",
+        "start_date": "2023-11-09",
+        "end_date": "2023-11-15",
+        "duration": "6",
+        "total_price": "5106"
+    },
+    {
+        "id": "r6115",
+        "car_id": "c6476",
+        "user_id": "u1752",
+        "start_date": "2023-07-30",
+        "end_date": "2023-07-31",
+        "duration": "1",
+        "total_price": "576"
+    },
+    {
+        "id": "r7738",
+        "car_id": "c2616",
+        "user_id": "u3628",
+        "start_date": "2023-08-29",
+        "end_date": "2023-09-02",
+        "duration": "4",
+        "total_price": "1728"
+    },
+    {
+        "id": "r8664",
+        "car_id": "c7414",
+        "user_id": "u7827",
+        "start_date": "2023-06-29",
+        "end_date": "2023-07-04",
+        "duration": "5",
+        "total_price": "4045"
+    },
+    {
+        "id": "r1802",
+        "car_id": "c8253",
+        "user_id": "u2430",
+        "start_date": "2023-03-25",
+        "end_date": "2023-03-29",
+        "duration": "4",
+        "total_price": "2304"
+    },
+    {
+        "id": "r6467",
+        "car_id": "c7165",
+        "user_id": "u2430",
+        "start_date": "2023-06-14",
+        "end_date": "2023-06-18",
+        "duration": "4",
+        "total_price": "2016"
+    },
+    {
+        "id": "r2693",
+        "car_id": "c2689",
+        "user_id": "u4884",
+        "start_date": "2023-02-02",
+        "end_date": "2023-02-05",
+        "duration": "3",
+        "total_price": "1236"
+    },
+    {
+        "id": "r4407",
+        "car_id": "c5974",
+        "user_id": "u1037",
+        "start_date": "2023-09-29",
+        "end_date": "2023-10-03",
+        "duration": "4",
+        "total_price": "1664"
+    },
+    {
+        "id": "r6323",
+        "car_id": "c3251",
+        "user_id": "u1776",
+        "start_date": "2023-04-23",
+        "end_date": "2023-04-24",
+        "duration": "1",
+        "total_price": "592"
+    },
+    {
+        "id": "r4003",
+        "car_id": "c6188",
+        "user_id": "u4398",
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-06",
+        "duration": "5",
+        "total_price": "2690"
+    },
+    {
+        "id": "r1699",
+        "car_id": "c1388",
+        "user_id": "u6645",
+        "start_date": "2023-04-18",
+        "end_date": "2023-04-24",
+        "duration": "6",
+        "total_price": "5532"
+    },
+    {
+        "id": "r6994",
+        "car_id": "c6193",
+        "user_id": "u4779",
+        "start_date": "2023-09-16",
+        "end_date": "2023-09-21",
+        "duration": "5",
+        "total_price": "3315"
+    },
+    {
+        "id": "r6522",
+        "car_id": "c6149",
+        "user_id": "u6132",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-24",
+        "duration": "5",
+        "total_price": "2735"
+    },
+    {
+        "id": "r1843",
+        "car_id": "c7190",
+        "user_id": "u6970",
+        "start_date": "2023-08-12",
+        "end_date": "2023-08-17",
+        "duration": "5",
+        "total_price": "3440"
+    },
+    {
+        "id": "r8408",
+        "car_id": "c5807",
+        "user_id": "u7901",
+        "start_date": "2023-01-31",
+        "end_date": "2023-02-02",
+        "duration": "2",
+        "total_price": "1146"
+    },
+    {
+        "id": "r9313",
+        "car_id": "c6820",
+        "user_id": "u2541",
+        "start_date": "2023-03-21",
+        "end_date": "2023-03-28",
+        "duration": "7",
+        "total_price": "4193"
+    },
+    {
+        "id": "r1583",
+        "car_id": "c6193",
+        "user_id": "u7408",
+        "start_date": "2023-12-31",
+        "end_date": "2024-01-04",
+        "duration": "4",
+        "total_price": "2652"
+    },
+    {
+        "id": "r3236",
+        "car_id": "c4068",
+        "user_id": "u6563",
+        "start_date": "2023-09-07",
+        "end_date": "2023-09-12",
+        "duration": "5",
+        "total_price": "4470"
+    },
+    {
+        "id": "r4457",
+        "car_id": "c1726",
+        "user_id": "u6645",
+        "start_date": "2023-02-25",
+        "end_date": "2023-02-27",
+        "duration": "2",
+        "total_price": "1250"
+    },
+    {
+        "id": "r8468",
+        "car_id": "c6149",
+        "user_id": "u2824",
+        "start_date": "2023-09-29",
+        "end_date": "2023-10-05",
+        "duration": "6",
+        "total_price": "3282"
+    },
+    {
+        "id": "r5919",
+        "car_id": "c3824",
+        "user_id": "u3881",
+        "start_date": "2023-05-11",
+        "end_date": "2023-05-15",
+        "duration": "4",
+        "total_price": "3304"
+    },
+    {
+        "id": "r7872",
+        "car_id": "c9989",
+        "user_id": "u8146",
+        "start_date": "2023-05-24",
+        "end_date": "2023-05-26",
+        "duration": "2",
+        "total_price": "1856"
+    },
+    {
+        "id": "r2475",
+        "car_id": "c8253",
+        "user_id": "u6731",
+        "start_date": "2023-03-29",
+        "end_date": "2023-03-30",
+        "duration": "1",
+        "total_price": "576"
+    },
+    {
+        "id": "r7183",
+        "car_id": "c4920",
+        "user_id": "u9168",
+        "start_date": "2023-11-24",
+        "end_date": "2023-11-30",
+        "duration": "6",
+        "total_price": "4614"
+    },
+    {
+        "id": "r9956",
+        "car_id": "c2630",
+        "user_id": "u7919",
+        "start_date": "2023-09-23",
+        "end_date": "2023-09-26",
+        "duration": "3",
+        "total_price": "1785"
+    },
+    {
+        "id": "r3282",
+        "car_id": "c8371",
+        "user_id": "u7003",
+        "start_date": "2023-04-26",
+        "end_date": "2023-04-28",
+        "duration": "2",
+        "total_price": "1656"
+    },
+    {
+        "id": "r5683",
+        "car_id": "c7832",
+        "user_id": "u1922",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-18",
+        "duration": "7",
+        "total_price": "4767"
+    },
+    {
+        "id": "r9549",
+        "car_id": "c4125",
+        "user_id": "u8118",
+        "start_date": "2023-10-09",
+        "end_date": "2023-10-10",
+        "duration": "1",
+        "total_price": "796"
+    },
+    {
+        "id": "r4728",
+        "car_id": "c3174",
+        "user_id": "u8618",
+        "start_date": "2023-05-19",
+        "end_date": "2023-05-23",
+        "duration": "4",
+        "total_price": "2292"
+    },
+    {
+        "id": "r4569",
+        "car_id": "c3511",
+        "user_id": "u6132",
+        "start_date": "2023-08-09",
+        "end_date": "2023-08-12",
+        "duration": "3",
+        "total_price": "1521"
+    },
+    {
+        "id": "r2523",
+        "car_id": "c2034",
+        "user_id": "u7608",
+        "start_date": "2023-09-22",
+        "end_date": "2023-09-27",
+        "duration": "5",
+        "total_price": "4645"
+    },
+    {
+        "id": "r6125",
+        "car_id": "c1596",
+        "user_id": "u3288",
+        "start_date": "2023-01-06",
+        "end_date": "2023-01-08",
+        "duration": "2",
+        "total_price": "1510"
+    },
+    {
+        "id": "r1429",
+        "car_id": "c4030",
+        "user_id": "u1954",
+        "start_date": "2023-11-04",
+        "end_date": "2023-11-11",
+        "duration": "7",
+        "total_price": "4571"
+    },
+    {
+        "id": "r4010",
+        "car_id": "c1138",
+        "user_id": "u6970",
+        "start_date": "2023-08-29",
+        "end_date": "2023-09-02",
+        "duration": "4",
+        "total_price": "2244"
+    },
+    {
+        "id": "r2312",
+        "car_id": "c7441",
+        "user_id": "u3490",
+        "start_date": "2023-09-09",
+        "end_date": "2023-09-15",
+        "duration": "6",
+        "total_price": "4122"
+    },
+    {
+        "id": "r4507",
+        "car_id": "c6110",
+        "user_id": "u3883",
+        "start_date": "2023-05-21",
+        "end_date": "2023-05-22",
+        "duration": "1",
+        "total_price": "792"
+    },
+    {
+        "id": "r5386",
+        "car_id": "c8528",
+        "user_id": "u2021",
+        "start_date": "2023-01-17",
+        "end_date": "2023-01-22",
+        "duration": "5",
+        "total_price": "3535"
+    },
+    {
+        "id": "r8752",
+        "car_id": "c3824",
+        "user_id": "u4474",
+        "start_date": "2023-12-26",
+        "end_date": "2024-01-02",
+        "duration": "7",
+        "total_price": "5782"
+    },
+    {
+        "id": "r6528",
+        "car_id": "c4665",
+        "user_id": "u7646",
+        "start_date": "2023-04-21",
+        "end_date": "2023-04-28",
+        "duration": "7",
+        "total_price": "6258"
+    },
+    {
+        "id": "r7538",
+        "car_id": "c8173",
+        "user_id": "u9110",
+        "start_date": "2023-09-07",
+        "end_date": "2023-09-11",
+        "duration": "4",
+        "total_price": "3552"
+    },
+    {
+        "id": "r1995",
+        "car_id": "c7352",
+        "user_id": "u4738",
+        "start_date": "2023-09-23",
+        "end_date": "2023-09-27",
+        "duration": "4",
+        "total_price": "2436"
+    },
+    {
+        "id": "r3726",
+        "car_id": "c6394",
+        "user_id": "u9802",
+        "start_date": "2023-09-13",
+        "end_date": "2023-09-19",
+        "duration": "6",
+        "total_price": "3156"
+    },
+    {
+        "id": "r1578",
+        "car_id": "c7352",
+        "user_id": "u2719",
+        "start_date": "2023-11-08",
+        "end_date": "2023-11-10",
+        "duration": "2",
+        "total_price": "1218"
+    },
+    {
+        "id": "r6287",
+        "car_id": "c8338",
+        "user_id": "u2719",
+        "start_date": "2023-09-02",
+        "end_date": "2023-09-08",
+        "duration": "6",
+        "total_price": "2544"
+    },
+    {
+        "id": "r7977",
+        "car_id": "c1388",
+        "user_id": "u1572",
+        "start_date": "2023-10-07",
+        "end_date": "2023-10-09",
+        "duration": "2",
+        "total_price": "1844"
+    },
+    {
+        "id": "r7792",
+        "car_id": "c5327",
+        "user_id": "u1593",
+        "start_date": "2023-10-07",
+        "end_date": "2023-10-08",
+        "duration": "1",
+        "total_price": "666"
+    },
+    {
+        "id": "r5855",
+        "car_id": "c9900",
+        "user_id": "u9640",
+        "start_date": "2023-04-28",
+        "end_date": "2023-05-03",
+        "duration": "5",
+        "total_price": "4340"
+    },
+    {
+        "id": "r1951",
+        "car_id": "c1651",
+        "user_id": "u4836",
+        "start_date": "2023-02-22",
+        "end_date": "2023-02-25",
+        "duration": "3",
+        "total_price": "2496"
+    },
+    {
+        "id": "r7481",
+        "car_id": "c6336",
+        "user_id": "u2715",
+        "start_date": "2023-12-30",
+        "end_date": "2024-01-05",
+        "duration": "6",
+        "total_price": "4962"
+    },
+    {
+        "id": "r8920",
+        "car_id": "c1138",
+        "user_id": "u5855",
+        "start_date": "2023-03-21",
+        "end_date": "2023-03-27",
+        "duration": "6",
+        "total_price": "3366"
+    },
+    {
+        "id": "r5050",
+        "car_id": "c5005",
+        "user_id": "u2953",
+        "start_date": "2023-01-12",
+        "end_date": "2023-01-17",
+        "duration": "5",
+        "total_price": "4560"
+    },
+    {
+        "id": "r9687",
+        "car_id": "c2715",
+        "user_id": "u5804",
+        "start_date": "2023-11-18",
+        "end_date": "2023-11-23",
+        "duration": "5",
+        "total_price": "4625"
+    },
+    {
+        "id": "r5586",
+        "car_id": "c6979",
+        "user_id": "u4874",
+        "start_date": "2023-10-05",
+        "end_date": "2023-10-07",
+        "duration": "2",
+        "total_price": "1110"
+    },
+    {
+        "id": "r6929",
+        "car_id": "c2005",
+        "user_id": "u8693",
+        "start_date": "2023-03-11",
+        "end_date": "2023-03-15",
+        "duration": "4",
+        "total_price": "1752"
+    },
+    {
+        "id": "r3231",
+        "car_id": "c6962",
+        "user_id": "u7646",
+        "start_date": "2023-04-21",
+        "end_date": "2023-04-22",
+        "duration": "1",
+        "total_price": "789"
+    },
+    {
+        "id": "r4680",
+        "car_id": "c9229",
+        "user_id": "u2766",
+        "start_date": "2023-10-09",
+        "end_date": "2023-10-15",
+        "duration": "6",
+        "total_price": "4458"
+    },
+    {
+        "id": "r9434",
+        "car_id": "c4597",
+        "user_id": "u5895",
+        "start_date": "2023-04-22",
+        "end_date": "2023-04-25",
+        "duration": "3",
+        "total_price": "1344"
+    },
+    {
+        "id": "r8173",
+        "car_id": "c1342",
+        "user_id": "u6136",
+        "start_date": "2023-12-04",
+        "end_date": "2023-12-07",
+        "duration": "3",
+        "total_price": "2988"
+    },
+    {
+        "id": "r3746",
+        "car_id": "c8338",
+        "user_id": "u9699",
+        "start_date": "2023-08-14",
+        "end_date": "2023-08-16",
+        "duration": "2",
+        "total_price": "848"
+    },
+    {
+        "id": "r4509",
+        "car_id": "c4132",
+        "user_id": "u4092",
+        "start_date": "2023-05-13",
+        "end_date": "2023-05-14",
+        "duration": "1",
+        "total_price": "910"
+    },
+    {
+        "id": "r6046",
+        "car_id": "c2630",
+        "user_id": "u6992",
+        "start_date": "2023-02-13",
+        "end_date": "2023-02-19",
+        "duration": "6",
+        "total_price": "3570"
+    },
+    {
+        "id": "r7908",
+        "car_id": "c8826",
+        "user_id": "u2126",
+        "start_date": "2023-12-14",
+        "end_date": "2023-12-21",
+        "duration": "7",
+        "total_price": "5019"
+    },
+    {
+        "id": "r9729",
+        "car_id": "c1039",
+        "user_id": "u5069",
+        "start_date": "2023-04-23",
+        "end_date": "2023-04-30",
+        "duration": "7",
+        "total_price": "4802"
+    },
+    {
+        "id": "r7867",
+        "car_id": "c8778",
+        "user_id": "u8277",
+        "start_date": "2023-03-21",
+        "end_date": "2023-03-26",
+        "duration": "5",
+        "total_price": "3095"
+    },
+    {
+        "id": "r1252",
+        "car_id": "c3744",
+        "user_id": "u1445",
+        "start_date": "2023-08-09",
+        "end_date": "2023-08-15",
+        "duration": "6",
+        "total_price": "3246"
+    },
+    {
+        "id": "r1259",
+        "car_id": "c5222",
+        "user_id": "u1901",
+        "start_date": "2023-03-06",
+        "end_date": "2023-03-13",
+        "duration": "7",
+        "total_price": "4515"
+    },
+    {
+        "id": "r7075",
+        "car_id": "c2715",
+        "user_id": "u4999",
+        "start_date": "2023-10-26",
+        "end_date": "2023-10-28",
+        "duration": "2",
+        "total_price": "1850"
+    },
+    {
+        "id": "r6918",
+        "car_id": "c6854",
+        "user_id": "u4604",
+        "start_date": "2023-06-14",
+        "end_date": "2023-06-15",
+        "duration": "1",
+        "total_price": "928"
+    },
+    {
+        "id": "r2510",
+        "car_id": "c5005",
+        "user_id": "u4401",
+        "start_date": "2023-02-10",
+        "end_date": "2023-02-16",
+        "duration": "6",
+        "total_price": "5472"
+    },
+    {
+        "id": "r5710",
+        "car_id": "c8617",
+        "user_id": "u8087",
+        "start_date": "2023-03-26",
+        "end_date": "2023-03-28",
+        "duration": "2",
+        "total_price": "1992"
+    },
+    {
+        "id": "r6762",
+        "car_id": "c7423",
+        "user_id": "u1037",
+        "start_date": "2023-02-12",
+        "end_date": "2023-02-15",
+        "duration": "3",
+        "total_price": "1632"
+    },
+    {
+        "id": "r8536",
+        "car_id": "c3078",
+        "user_id": "u1552",
+        "start_date": "2023-04-13",
+        "end_date": "2023-04-15",
+        "duration": "2",
+        "total_price": "816"
+    },
+    {
+        "id": "r2701",
+        "car_id": "c6979",
+        "user_id": "u3168",
+        "start_date": "2023-01-09",
+        "end_date": "2023-01-16",
+        "duration": "7",
+        "total_price": "3885"
+    },
+    {
+        "id": "r2658",
+        "car_id": "c5005",
+        "user_id": "u9201",
+        "start_date": "2023-10-22",
+        "end_date": "2023-10-25",
+        "duration": "3",
+        "total_price": "2736"
+    },
+    {
+        "id": "r7575",
+        "car_id": "c2560",
+        "user_id": "u7935",
+        "start_date": "2023-07-07",
+        "end_date": "2023-07-11",
+        "duration": "4",
+        "total_price": "2608"
+    },
+    {
+        "id": "r4141",
+        "car_id": "c4806",
+        "user_id": "u2874",
+        "start_date": "2023-11-17",
+        "end_date": "2023-11-23",
+        "duration": "6",
+        "total_price": "5418"
+    },
+    {
+        "id": "r9962",
+        "car_id": "c5508",
+        "user_id": "u9585",
+        "start_date": "2023-10-23",
+        "end_date": "2023-10-30",
+        "duration": "7",
+        "total_price": "6944"
+    },
+    {
+        "id": "r7948",
+        "car_id": "c6188",
+        "user_id": "u8148",
+        "start_date": "2023-09-24",
+        "end_date": "2023-10-01",
+        "duration": "7",
+        "total_price": "3766"
+    },
+    {
+        "id": "r8824",
+        "car_id": "c1924",
+        "user_id": "u1090",
+        "start_date": "2023-04-30",
+        "end_date": "2023-05-05",
+        "duration": "5",
+        "total_price": "4900"
+    },
+    {
+        "id": "r6076",
+        "car_id": "c8617",
+        "user_id": "u7235",
+        "start_date": "2023-07-23",
+        "end_date": "2023-07-28",
+        "duration": "5",
+        "total_price": "4980"
+    },
+    {
+        "id": "r7689",
+        "car_id": "c9900",
+        "user_id": "u6724",
+        "start_date": "2023-01-21",
+        "end_date": "2023-01-25",
+        "duration": "4",
+        "total_price": "3472"
+    },
+    {
+        "id": "r2183",
+        "car_id": "c9503",
+        "user_id": "u9148",
+        "start_date": "2023-04-09",
+        "end_date": "2023-04-12",
+        "duration": "3",
+        "total_price": "2952"
+    },
+    {
+        "id": "r6817",
+        "car_id": "c3392",
+        "user_id": "u5766",
+        "start_date": "2023-11-08",
+        "end_date": "2023-11-11",
+        "duration": "3",
+        "total_price": "1242"
+    },
+    {
+        "id": "r6542",
+        "car_id": "c3420",
+        "user_id": "u7003",
+        "start_date": "2023-08-07",
+        "end_date": "2023-08-10",
+        "duration": "3",
+        "total_price": "2688"
+    },
+    {
+        "id": "r2230",
+        "car_id": "c3174",
+        "user_id": "u5654",
+        "start_date": "2023-09-03",
+        "end_date": "2023-09-08",
+        "duration": "5",
+        "total_price": "2865"
+    },
+    {
+        "id": "r9102",
+        "car_id": "c5974",
+        "user_id": "u7590",
+        "start_date": "2023-10-20",
+        "end_date": "2023-10-23",
+        "duration": "3",
+        "total_price": "1248"
+    },
+    {
+        "id": "r4612",
+        "car_id": "c5288",
+        "user_id": "u4397",
+        "start_date": "2023-11-03",
+        "end_date": "2023-11-09",
+        "duration": "6",
+        "total_price": "4794"
+    },
+    {
+        "id": "r1764",
+        "car_id": "c4125",
+        "user_id": "u7443",
+        "start_date": "2023-06-11",
+        "end_date": "2023-06-15",
+        "duration": "4",
+        "total_price": "3184"
+    },
+    {
+        "id": "r6403",
+        "car_id": "c8131",
+        "user_id": "u8087",
+        "start_date": "2023-11-27",
+        "end_date": "2023-11-30",
+        "duration": "3",
+        "total_price": "2055"
+    },
+    {
+        "id": "r1672",
+        "car_id": "c6962",
+        "user_id": "u5977",
+        "start_date": "2023-09-24",
+        "end_date": "2023-09-28",
+        "duration": "4",
+        "total_price": "3156"
+    },
+    {
+        "id": "r6090",
+        "car_id": "c3078",
+        "user_id": "u5768",
+        "start_date": "2023-09-17",
+        "end_date": "2023-09-23",
+        "duration": "6",
+        "total_price": "2448"
+    },
+    {
+        "id": "r6395",
+        "car_id": "c4124",
+        "user_id": "u2392",
+        "start_date": "2023-07-25",
+        "end_date": "2023-07-27",
+        "duration": "2",
+        "total_price": "1234"
+    },
+    {
+        "id": "r2190",
+        "car_id": "c2005",
+        "user_id": "u1090",
+        "start_date": "2023-03-17",
+        "end_date": "2023-03-23",
+        "duration": "6",
+        "total_price": "2628"
+    },
+    {
+        "id": "r5846",
+        "car_id": "c4994",
+        "user_id": "u7283",
+        "start_date": "2023-03-25",
+        "end_date": "2023-03-31",
+        "duration": "6",
+        "total_price": "5274"
+    },
+    {
+        "id": "r3993",
+        "car_id": "c1923",
+        "user_id": "u7092",
+        "start_date": "2023-10-07",
+        "end_date": "2023-10-09",
+        "duration": "2",
+        "total_price": "1608"
+    },
+    {
+        "id": "r9881",
+        "car_id": "c9050",
+        "user_id": "u4651",
+        "start_date": "2023-11-07",
+        "end_date": "2023-11-14",
+        "duration": "7",
+        "total_price": "6118"
+    },
+    {
+        "id": "r9123",
+        "car_id": "c2176",
+        "user_id": "u9349",
+        "start_date": "2023-12-25",
+        "end_date": "2023-12-26",
+        "duration": "1",
+        "total_price": "425"
+    },
+    {
+        "id": "r1480",
+        "car_id": "c1745",
+        "user_id": "u5488",
+        "start_date": "2023-02-20",
+        "end_date": "2023-02-25",
+        "duration": "5",
+        "total_price": "4875"
+    },
+    {
+        "id": "r3151",
+        "car_id": "c1039",
+        "user_id": "u5231",
+        "start_date": "2023-10-22",
+        "end_date": "2023-10-28",
+        "duration": "6",
+        "total_price": "4116"
+    },
+    {
+        "id": "r3770",
+        "car_id": "c7832",
+        "user_id": "u4189",
+        "start_date": "2023-07-26",
+        "end_date": "2023-07-29",
+        "duration": "3",
+        "total_price": "2043"
+    },
+    {
+        "id": "r5140",
+        "car_id": "c7333",
+        "user_id": "u5609",
+        "start_date": "2023-04-19",
+        "end_date": "2023-04-21",
+        "duration": "2",
+        "total_price": "1030"
+    },
+    {
+        "id": "r5822",
+        "car_id": "c2778",
+        "user_id": "u4483",
+        "start_date": "2023-11-07",
+        "end_date": "2023-11-13",
+        "duration": "6",
+        "total_price": "4572"
+    },
+    {
+        "id": "r1910",
+        "car_id": "c3930",
+        "user_id": "u9078",
+        "start_date": "2023-06-29",
+        "end_date": "2023-07-03",
+        "duration": "4",
+        "total_price": "2880"
+    },
+    {
+        "id": "r8418",
+        "car_id": "c7165",
+        "user_id": "u5953",
+        "start_date": "2023-08-22",
+        "end_date": "2023-08-23",
+        "duration": "1",
+        "total_price": "504"
+    },
+    {
+        "id": "r4959",
+        "car_id": "c8323",
+        "user_id": "u4401",
+        "start_date": "2023-02-05",
+        "end_date": "2023-02-11",
+        "duration": "6",
+        "total_price": "3102"
+    },
+    {
+        "id": "r1341",
+        "car_id": "c1344",
+        "user_id": "u5902",
+        "start_date": "2023-06-10",
+        "end_date": "2023-06-17",
+        "duration": "7",
+        "total_price": "3073"
+    },
+    {
+        "id": "r1063",
+        "car_id": "c1923",
+        "user_id": "u1302",
+        "start_date": "2023-10-17",
+        "end_date": "2023-10-23",
+        "duration": "6",
+        "total_price": "4824"
+    },
+    {
+        "id": "r8927",
+        "car_id": "c3707",
+        "user_id": "u4565",
+        "start_date": "2023-06-05",
+        "end_date": "2023-06-11",
+        "duration": "6",
+        "total_price": "4182"
+    },
+    {
+        "id": "r1387",
+        "car_id": "c6459",
+        "user_id": "u8087",
+        "start_date": "2023-03-03",
+        "end_date": "2023-03-07",
+        "duration": "4",
+        "total_price": "1848"
+    },
+    {
+        "id": "r9392",
+        "car_id": "c2999",
+        "user_id": "u6015",
+        "start_date": "2023-04-16",
+        "end_date": "2023-04-17",
+        "duration": "1",
+        "total_price": "775"
+    },
+    {
+        "id": "r3257",
+        "car_id": "c7521",
+        "user_id": "u7960",
+        "start_date": "2023-03-07",
+        "end_date": "2023-03-14",
+        "duration": "7",
+        "total_price": "3241"
+    },
+    {
+        "id": "r5612",
+        "car_id": "c7284",
+        "user_id": "u2809",
+        "start_date": "2023-01-19",
+        "end_date": "2023-01-22",
+        "duration": "3",
+        "total_price": "2076"
+    },
+    {
+        "id": "r8248",
+        "car_id": "c9899",
+        "user_id": "u9215",
+        "start_date": "2023-12-20",
+        "end_date": "2023-12-21",
+        "duration": "1",
+        "total_price": "957"
+    },
+    {
+        "id": "r5083",
+        "car_id": "c9324",
+        "user_id": "u6992",
+        "start_date": "2023-06-02",
+        "end_date": "2023-06-07",
+        "duration": "5",
+        "total_price": "3625"
+    },
+    {
+        "id": "r8811",
+        "car_id": "c3511",
+        "user_id": "u9236",
+        "start_date": "2023-02-02",
+        "end_date": "2023-02-07",
+        "duration": "5",
+        "total_price": "2535"
+    },
+    {
+        "id": "r3984",
+        "car_id": "c6422",
+        "user_id": "u6724",
+        "start_date": "2023-11-29",
+        "end_date": "2023-12-01",
+        "duration": "2",
+        "total_price": "1952"
+    },
+    {
+        "id": "r3378",
+        "car_id": "c5504",
+        "user_id": "u9828",
+        "start_date": "2023-06-21",
+        "end_date": "2023-06-26",
+        "duration": "5",
+        "total_price": "4250"
+    },
+    {
+        "id": "r7657",
+        "car_id": "c6854",
+        "user_id": "u9699",
+        "start_date": "2023-08-24",
+        "end_date": "2023-08-26",
+        "duration": "2",
+        "total_price": "1856"
+    },
+    {
+        "id": "r6863",
+        "car_id": "c4030",
+        "user_id": "u9925",
+        "start_date": "2023-04-25",
+        "end_date": "2023-04-29",
+        "duration": "4",
+        "total_price": "2612"
+    },
+    {
+        "id": "r3700",
+        "car_id": "c8366",
+        "user_id": "u9591",
+        "start_date": "2023-05-19",
+        "end_date": "2023-05-20",
+        "duration": "1",
+        "total_price": "627"
+    },
+    {
+        "id": "r5896",
+        "car_id": "c2145",
+        "user_id": "u7717",
+        "start_date": "2023-05-28",
+        "end_date": "2023-06-04",
+        "duration": "7",
+        "total_price": "6839"
+    },
+    {
+        "id": "r6285",
+        "car_id": "c1388",
+        "user_id": "u1223",
+        "start_date": "2023-06-14",
+        "end_date": "2023-06-16",
+        "duration": "2",
+        "total_price": "1844"
+    },
+    {
+        "id": "r1734",
+        "car_id": "c4533",
+        "user_id": "u4689",
+        "start_date": "2023-11-13",
+        "end_date": "2023-11-16",
+        "duration": "3",
+        "total_price": "1587"
+    },
+    {
+        "id": "r6999",
+        "car_id": "c2999",
+        "user_id": "u1743",
+        "start_date": "2023-10-23",
+        "end_date": "2023-10-26",
+        "duration": "3",
+        "total_price": "2325"
+    },
+    {
+        "id": "r6708",
+        "car_id": "c8617",
+        "user_id": "u5793",
+        "start_date": "2023-01-25",
+        "end_date": "2023-01-28",
+        "duration": "3",
+        "total_price": "2988"
+    },
+    {
+        "id": "r2747",
+        "car_id": "c3392",
+        "user_id": "u4671",
+        "start_date": "2023-12-06",
+        "end_date": "2023-12-10",
+        "duration": "4",
+        "total_price": "1656"
+    },
+    {
+        "id": "r5058",
+        "car_id": "c9323",
+        "user_id": "u1144",
+        "start_date": "2023-11-17",
+        "end_date": "2023-11-20",
+        "duration": "3",
+        "total_price": "2646"
+    },
+    {
+        "id": "r9175",
+        "car_id": "c2830",
+        "user_id": "u8368",
+        "start_date": "2023-12-04",
+        "end_date": "2023-12-07",
+        "duration": "3",
+        "total_price": "2853"
+    },
+    {
+        "id": "r8805",
+        "car_id": "c1726",
+        "user_id": "u9357",
+        "start_date": "2023-06-11",
+        "end_date": "2023-06-15",
+        "duration": "4",
+        "total_price": "2500"
+    },
+    {
+        "id": "r6799",
+        "car_id": "c4920",
+        "user_id": "u5629",
+        "start_date": "2023-11-07",
+        "end_date": "2023-11-08",
+        "duration": "1",
+        "total_price": "769"
+    },
+    {
+        "id": "r1824",
+        "car_id": "c4396",
+        "user_id": "u8230",
+        "start_date": "2023-05-01",
+        "end_date": "2023-05-05",
+        "duration": "4",
+        "total_price": "1788"
+    },
+    {
+        "id": "r6910",
+        "car_id": "c2715",
+        "user_id": "u6344",
+        "start_date": "2023-02-10",
+        "end_date": "2023-02-12",
+        "duration": "2",
+        "total_price": "1850"
+    },
+    {
+        "id": "r9509",
+        "car_id": "c4030",
+        "user_id": "u1539",
+        "start_date": "2024-01-01",
+        "end_date": "2024-01-06",
+        "duration": "5",
+        "total_price": "3265"
+    },
+    {
+        "id": "r9841",
+        "car_id": "c1726",
+        "user_id": "u5855",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-22",
+        "duration": "3",
+        "total_price": "1875"
+    },
+    {
+        "id": "r1110",
+        "car_id": "c1300",
+        "user_id": "u9357",
+        "start_date": "2023-08-03",
+        "end_date": "2023-08-09",
+        "duration": "6",
+        "total_price": "3498"
+    },
+    {
+        "id": "r9045",
+        "car_id": "c1344",
+        "user_id": "u3023",
+        "start_date": "2023-02-22",
+        "end_date": "2023-03-01",
+        "duration": "7",
+        "total_price": "3073"
+    },
+    {
+        "id": "r4056",
+        "car_id": "c3511",
+        "user_id": "u7935",
+        "start_date": "2023-04-01",
+        "end_date": "2023-04-06",
+        "duration": "5",
+        "total_price": "2535"
+    },
+    {
+        "id": "r8245",
+        "car_id": "c6342",
+        "user_id": "u7544",
+        "start_date": "2023-09-24",
+        "end_date": "2023-09-27",
+        "duration": "3",
+        "total_price": "2160"
+    },
+    {
+        "id": "r7194",
+        "car_id": "c6167",
+        "user_id": "u3733",
+        "start_date": "2023-04-24",
+        "end_date": "2023-04-30",
+        "duration": "6",
+        "total_price": "4158"
+    },
+    {
+        "id": "r6462",
+        "car_id": "c2719",
+        "user_id": "u6055",
+        "start_date": "2023-07-11",
+        "end_date": "2023-07-18",
+        "duration": "7",
+        "total_price": "5719"
+    },
+    {
+        "id": "r2168",
+        "car_id": "c1745",
+        "user_id": "u4000",
+        "start_date": "2023-10-01",
+        "end_date": "2023-10-04",
+        "duration": "3",
+        "total_price": "2925"
+    },
+    {
+        "id": "r8462",
+        "car_id": "c6108",
+        "user_id": "u8917",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-26",
+        "duration": "7",
+        "total_price": "3367"
+    },
+    {
+        "id": "r3966",
+        "car_id": "c8371",
+        "user_id": "u5895",
+        "start_date": "2023-08-12",
+        "end_date": "2023-08-14",
+        "duration": "2",
+        "total_price": "1656"
+    },
+    {
+        "id": "r2595",
+        "car_id": "c5512",
+        "user_id": "u9828",
+        "start_date": "2023-11-08",
+        "end_date": "2023-11-11",
+        "duration": "3",
+        "total_price": "1236"
+    },
+    {
+        "id": "r9934",
+        "car_id": "c7884",
+        "user_id": "u4000",
+        "start_date": "2023-05-31",
+        "end_date": "2023-06-07",
+        "duration": "7",
+        "total_price": "3514"
+    },
+    {
+        "id": "r5707",
+        "car_id": "c2813",
+        "user_id": "u7283",
+        "start_date": "2023-12-22",
+        "end_date": "2023-12-26",
+        "duration": "4",
+        "total_price": "2636"
+    },
+    {
+        "id": "r8831",
+        "car_id": "c6644",
+        "user_id": "u5629",
+        "start_date": "2023-09-16",
+        "end_date": "2023-09-23",
+        "duration": "7",
+        "total_price": "3710"
+    },
+    {
+        "id": "r7816",
+        "car_id": "c7958",
+        "user_id": "u2096",
+        "start_date": "2023-08-17",
+        "end_date": "2023-08-21",
+        "duration": "4",
+        "total_price": "2460"
+    },
+    {
+        "id": "r2187",
+        "car_id": "c2532",
+        "user_id": "u6992",
+        "start_date": "2023-10-31",
+        "end_date": "2023-11-07",
+        "duration": "7",
+        "total_price": "5600"
+    },
+    {
+        "id": "r2463",
+        "car_id": "c2166",
+        "user_id": "u3044",
+        "start_date": "2023-07-14",
+        "end_date": "2023-07-15",
+        "duration": "1",
+        "total_price": "713"
+    },
+    {
+        "id": "r9098",
+        "car_id": "c8551",
+        "user_id": "u3303",
+        "start_date": "2023-01-10",
+        "end_date": "2023-01-14",
+        "duration": "4",
+        "total_price": "1980"
+    },
+    {
+        "id": "r4464",
+        "car_id": "c9940",
+        "user_id": "u7608",
+        "start_date": "2023-10-03",
+        "end_date": "2023-10-08",
+        "duration": "5",
+        "total_price": "2390"
+    },
+    {
+        "id": "r3888",
+        "car_id": "c3707",
+        "user_id": "u3168",
+        "start_date": "2023-05-13",
+        "end_date": "2023-05-15",
+        "duration": "2",
+        "total_price": "1394"
+    },
+    {
+        "id": "r7174",
+        "car_id": "c2276",
+        "user_id": "u1019",
+        "start_date": "2023-08-21",
+        "end_date": "2023-08-28",
+        "duration": "7",
+        "total_price": "3395"
+    },
+    {
+        "id": "r7122",
+        "car_id": "c7013",
+        "user_id": "u1922",
+        "start_date": "2023-03-22",
+        "end_date": "2023-03-29",
+        "duration": "7",
+        "total_price": "2800"
+    },
+    {
+        "id": "r1545",
+        "car_id": "c3251",
+        "user_id": "u3881",
+        "start_date": "2023-05-30",
+        "end_date": "2023-06-01",
+        "duration": "2",
+        "total_price": "1184"
+    },
+    {
+        "id": "r4111",
+        "car_id": "c2894",
+        "user_id": "u7294",
+        "start_date": "2023-10-28",
+        "end_date": "2023-11-01",
+        "duration": "4",
+        "total_price": "3200"
+    },
+    {
+        "id": "r1152",
+        "car_id": "c2979",
+        "user_id": "u1340",
+        "start_date": "2024-01-01",
+        "end_date": "2024-01-02",
+        "duration": "1",
+        "total_price": "766"
+    },
+    {
+        "id": "r1210",
+        "car_id": "c6400",
+        "user_id": "u2791",
+        "start_date": "2023-01-22",
+        "end_date": "2023-01-24",
+        "duration": "2",
+        "total_price": "1004"
+    },
+    {
+        "id": "r6358",
+        "car_id": "c3392",
+        "user_id": "u9082",
+        "start_date": "2023-06-05",
+        "end_date": "2023-06-09",
+        "duration": "4",
+        "total_price": "1656"
+    },
+    {
+        "id": "r8957",
+        "car_id": "c2804",
+        "user_id": "u9609",
+        "start_date": "2023-11-18",
+        "end_date": "2023-11-24",
+        "duration": "6",
+        "total_price": "4710"
+    },
+    {
+        "id": "r7259",
+        "car_id": "c6901",
+        "user_id": "u5138",
+        "start_date": "2023-04-25",
+        "end_date": "2023-04-29",
+        "duration": "4",
+        "total_price": "2644"
+    },
+    {
+        "id": "r2480",
+        "car_id": "c8826",
+        "user_id": "u7042",
+        "start_date": "2023-05-17",
+        "end_date": "2023-05-22",
+        "duration": "5",
+        "total_price": "3585"
+    },
+    {
+        "id": "r6767",
+        "car_id": "c7165",
+        "user_id": "u7435",
+        "start_date": "2023-01-30",
+        "end_date": "2023-02-04",
+        "duration": "5",
+        "total_price": "2520"
+    },
+    {
+        "id": "r6897",
+        "car_id": "c8253",
+        "user_id": "u6619",
+        "start_date": "2023-04-14",
+        "end_date": "2023-04-19",
+        "duration": "5",
+        "total_price": "2880"
+    },
+    {
+        "id": "r6055",
+        "car_id": "c7143",
+        "user_id": "u1154",
+        "start_date": "2023-07-09",
+        "end_date": "2023-07-14",
+        "duration": "5",
+        "total_price": "2645"
+    },
+    {
+        "id": "r7756",
+        "car_id": "c1138",
+        "user_id": "u3490",
+        "start_date": "2023-11-24",
+        "end_date": "2023-11-26",
+        "duration": "2",
+        "total_price": "1122"
+    },
+    {
+        "id": "r7079",
+        "car_id": "c5005",
+        "user_id": "u2860",
+        "start_date": "2023-11-22",
+        "end_date": "2023-11-28",
+        "duration": "6",
+        "total_price": "5472"
+    },
+    {
+        "id": "r7651",
+        "car_id": "c1342",
+        "user_id": "u9127",
+        "start_date": "2023-10-06",
+        "end_date": "2023-10-13",
+        "duration": "7",
+        "total_price": "6972"
+    },
+    {
+        "id": "r6154",
+        "car_id": "c8371",
+        "user_id": "u4853",
+        "start_date": "2023-04-15",
+        "end_date": "2023-04-19",
+        "duration": "4",
+        "total_price": "3312"
+    },
+    {
+        "id": "r1512",
+        "car_id": "c8805",
+        "user_id": "u3112",
+        "start_date": "2023-08-27",
+        "end_date": "2023-09-03",
+        "duration": "7",
+        "total_price": "3542"
+    },
+    {
+        "id": "r7094",
+        "car_id": "c6083",
+        "user_id": "u2087",
+        "start_date": "2023-03-16",
+        "end_date": "2023-03-19",
+        "duration": "3",
+        "total_price": "1440"
+    },
+    {
+        "id": "r8621",
+        "car_id": "c7521",
+        "user_id": "u3883",
+        "start_date": "2023-08-06",
+        "end_date": "2023-08-07",
+        "duration": "1",
+        "total_price": "463"
+    },
+    {
+        "id": "r4026",
+        "car_id": "c2715",
+        "user_id": "u7934",
+        "start_date": "2023-05-26",
+        "end_date": "2023-05-27",
+        "duration": "1",
+        "total_price": "925"
+    }
+]
